@@ -13,13 +13,14 @@ from analyzer import analyze_all
 from pdf_generator import generate_pdf
 
 REPORTS_DIR = Path(__file__).resolve().parent.parent / "reports"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
 def load_yesterday_data(today: str) -> dict[str, dict]:
     """加载昨天的 JSON 数据用于趋势对比。"""
     from datetime import timedelta
     yesterday = (datetime.strptime(today, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
-    json_path = REPORTS_DIR / f"{yesterday}.json"
+    json_path = DATA_DIR / f"{yesterday}.json"
     if json_path.exists():
         with open(json_path, encoding="utf-8") as f:
             data = json.load(f)
@@ -43,14 +44,14 @@ def enrich_with_trends(projects: list[dict], yesterday_data: dict[str, dict]) ->
 
 def save_json(projects: list[dict], analyses: list[str], date: str) -> str:
     """保存原始数据为 JSON 文件。"""
-    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
     data = {
         "date": date,
         "generated_at": datetime.now(ZoneInfo("America/New_York")).isoformat(),
         "projects": projects,
         "analyses": analyses,
     }
-    path = REPORTS_DIR / f"{date}.json"
+    path = DATA_DIR / f"{date}.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"  JSON 已保存：{path}")
@@ -106,10 +107,10 @@ TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
 
 
 def generate_index():
-    """扫描 reports/ 目录的 JSON 文件，生成历史报告索引页。"""
+    """扫描 data/ 目录的 JSON 文件，生成历史报告索引页。"""
     json_pattern = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
     json_files = sorted(
-        [f for f in REPORTS_DIR.iterdir() if json_pattern.match(f.name)],
+        [f for f in DATA_DIR.iterdir() if json_pattern.match(f.name)],
         key=lambda f: f.stem,
         reverse=True,
     )
