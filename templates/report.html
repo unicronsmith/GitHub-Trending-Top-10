@@ -16,10 +16,12 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
-    font-family: "Microsoft YaHei", "Noto Sans SC", "PingFang SC", sans-serif;
+    font-family: "Noto Sans CJK SC", "Noto Sans SC", "Microsoft YaHei", "PingFang SC", "Source Han Sans SC", sans-serif;
     color: #333;
     line-height: 1.7;
     font-size: 11pt;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   /* ── 封面 ── */
@@ -38,17 +40,18 @@
   }
 
   .cover-icon {
-    font-size: 72pt;
-    margin-bottom: 30px;
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #f78166, #f0883e, #d29922);
+    border-radius: 50%;
+    margin: 0 auto 30px auto;
   }
 
   .cover h1 {
     font-size: 28pt;
     font-weight: 700;
     margin-bottom: 15px;
-    background: linear-gradient(90deg, #58a6ff, #3fb950, #f78166);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #58a6ff;
   }
 
   .cover .subtitle {
@@ -87,24 +90,23 @@
   }
 
   .toc-rank {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     background: linear-gradient(135deg, #58a6ff, #3fb950);
     color: #fff;
     border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    line-height: 30px;
     font-weight: 700;
-    font-size: 14pt;
+    font-size: 12pt;
     margin-right: 15px;
     flex-shrink: 0;
   }
 
-  .toc-info { flex: 1; }
+  .toc-info { flex: 1; min-width: 0; }
 
   .toc-name {
-    font-size: 13pt;
+    font-size: 12pt;
     font-weight: 600;
     color: #0d1117;
   }
@@ -113,6 +115,9 @@
     font-size: 9pt;
     color: #666;
     margin-top: 3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .toc-meta {
@@ -144,8 +149,6 @@
   }
 
   .card-rank-line {
-    display: flex;
-    align-items: center;
     margin-bottom: 8px;
   }
 
@@ -156,7 +159,7 @@
     border-radius: 20px;
     font-size: 10pt;
     font-weight: 700;
-    margin-right: 12px;
+    margin-right: 10px;
   }
 
   .card-lang-badge {
@@ -168,9 +171,9 @@
   }
 
   .card-title {
-    font-size: 22pt;
+    font-size: 20pt;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin: 10px 0 8px 0;
   }
 
   .card-desc {
@@ -180,16 +183,17 @@
   }
 
   .card-stats {
-    display: flex;
-    gap: 25px;
     margin-top: 15px;
   }
 
   .stat {
-    display: flex;
-    align-items: center;
-    gap: 6px;
+    display: inline-block;
     font-size: 10pt;
+    color: #8b949e;
+    margin-right: 20px;
+  }
+
+  .stat-label {
     color: #8b949e;
   }
 
@@ -208,28 +212,36 @@
 
   /* ── AI 分析内容 ── */
   .analysis {
-    padding: 0 5px;
+    padding: 5px 5px;
     line-height: 1.9;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 10.5pt;
   }
 
   .analysis p {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    text-align: justify;
   }
 
   .analysis strong {
     color: #0d1117;
-    font-size: 12pt;
+    font-size: 11pt;
   }
 
-  /* ── 页脚 ── */
+  .analysis ul, .analysis ol {
+    margin: 8px 0 8px 20px;
+  }
+
+  .analysis li {
+    margin-bottom: 4px;
+  }
+
+  /* ── 尾页 ── */
   .footer-page {
     page-break-before: always;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
     text-align: center;
+    padding-top: 300px;
     color: #8b949e;
   }
 
@@ -248,7 +260,7 @@
 
 <!-- 封面 -->
 <div class="cover">
-  <div class="cover-icon">&#x1F525;</div>
+  <div class="cover-icon"></div>
   <h1>GitHub Trending Top 10</h1>
   <p class="subtitle">每日热门开源项目深度解读</p>
   <div class="date">{{ date }}</div>
@@ -256,7 +268,7 @@
 
 <!-- 目录 -->
 <div class="toc">
-  <h2>&#x1F4D1; 今日榜单</h2>
+  <h2>今日榜单</h2>
   {% for project in projects %}
   <div class="toc-item">
     <div class="toc-rank">{{ loop.index }}</div>
@@ -282,23 +294,23 @@
     <div class="card-title">{{ project.name }}</div>
     <div class="card-desc">{{ project.description }}</div>
     <div class="card-stats">
-      <div class="stat">&#x2B50; 总星标 <span class="stat-value">{{ "{:,}".format(project.total_stars) }}</span></div>
-      <div class="stat">&#x1F374; Forks <span class="stat-value">{{ "{:,}".format(project.total_forks) }}</span></div>
-      <div class="stat">&#x1F4C8; 今日 <span class="stat-value">+{{ "{:,}".format(project.today_stars) }}</span></div>
+      <span class="stat"><span class="stat-label">Stars </span><span class="stat-value">{{ "{:,}".format(project.total_stars) }}</span></span>
+      <span class="stat"><span class="stat-label">Forks </span><span class="stat-value">{{ "{:,}".format(project.total_forks) }}</span></span>
+      <span class="stat"><span class="stat-label">Today </span><span class="stat-value">+{{ "{:,}".format(project.today_stars) }}</span></span>
     </div>
     <div class="card-url">{{ project.url }}</div>
   </div>
 
   <div class="analysis">
-    {{ analyses[loop.index0] | replace('\n', '<br>') }}
+    {{ analyses[loop.index0] }}
   </div>
 </div>
 {% endfor %}
 
 <!-- 尾页 -->
 <div class="footer-page">
-  <p>&#x1F4CA; 数据来源：github.com/trending</p>
-  <p>&#x1F4C5; 报告日期：{{ date }}</p>
+  <p>数据来源：github.com/trending</p>
+  <p>报告日期：{{ date }}</p>
   <p class="powered">由 DeepSeek AI 提供智能分析 | 自动生成</p>
 </div>
 

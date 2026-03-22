@@ -1,6 +1,7 @@
 """PDF 生成模块 - 使用 WeasyPrint 生成精美杂志风格 PDF"""
 
 from pathlib import Path
+import markdown
 from jinja2 import Environment, FileSystemLoader
 from weasyprint import HTML
 
@@ -24,13 +25,16 @@ def generate_pdf(projects: list[dict], analyses: list[str], date: str) -> str:
     """
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
+    # 将 Markdown 分析转换为 HTML
+    analyses_html = [markdown.markdown(a) for a in analyses]
+
     # 渲染 HTML
-    env = Environment(loader=FileSystemLoader(str(TEMPLATE_DIR)))
+    env = Environment(loader=FileSystemLoader(str(TEMPLATE_DIR)), autoescape=False)
     template = env.get_template("report.html")
 
     html_content = template.render(
         projects=projects,
-        analyses=analyses,
+        analyses=analyses_html,
         date=date,
     )
 
