@@ -162,6 +162,26 @@
     margin-right: 10px;
   }
 
+  .card-new-badge {
+    background: linear-gradient(135deg, #3fb950, #2ea043);
+    color: #fff;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 9pt;
+    font-weight: 700;
+    margin-right: 10px;
+  }
+
+  .card-streak-badge {
+    background: linear-gradient(135deg, #d29922, #e3b341);
+    color: #fff;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 9pt;
+    font-weight: 700;
+    margin-right: 10px;
+  }
+
   .card-lang-badge {
     padding: 4px 12px;
     border-radius: 20px;
@@ -278,6 +298,8 @@
     </div>
     <div class="toc-meta">
       <span class="toc-lang">{{ project.language }}</span>
+      {% if project.is_new %}<br><span style="font-size:8pt;color:#3fb950;font-weight:700;">NEW</span>
+      {% elif project.streak_days > 1 %}<br><span style="font-size:8pt;color:#d29922;">{{ project.streak_days }}天</span>{% endif %}
     </div>
   </div>
   {% endfor %}
@@ -290,6 +312,8 @@
     <div class="card-rank-line">
       <span class="card-rank">#{{ loop.index }}</span>
       <span class="card-lang-badge" style="background-color: {{ project.language_color or '#666' }}">{{ project.language }}</span>
+      {% if project.is_new %}<span class="card-new-badge">NEW</span>
+      {% elif project.streak_days > 1 %}<span class="card-streak-badge">连续 {{ project.streak_days }} 天</span>{% endif %}
     </div>
     <div class="card-title">{{ project.name }}</div>
     <div class="card-desc">{{ project.description }}</div>
