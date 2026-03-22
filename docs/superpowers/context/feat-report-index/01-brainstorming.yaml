@@ -1,0 +1,35 @@
+type: brainstorming-output
+timestamp: 2026-03-22T12:30:00-04:00
+workflow_id: feat-report-index
+summary: "为 GitHub Trending Top 10 项目添加静态 HTML 报告索引页，以卡片网格形式展示所有历史报告"
+
+decisions:
+  - decision: "静态生成方式"
+    rationale: "与现有架构一致（main.py 已生成 JSON/PDF/README），无前端 JS 依赖，GitHub Pages 开箱即用"
+  - decision: "卡片网格布局"
+    rationale: "紧凑美观，报告积累后浏览体验好"
+  - decision: "GitHub 暗色主题"
+    rationale: "与 PDF 封面/卡片头部的 #0d1117 暗色调统一"
+  - decision: "丰富信息卡片"
+    rationale: "日期 + 星期 + Top 3 项目 + 新上榜数 + Stars 总增长 + 语言标签 + PDF/JSON 链接"
+  - decision: "autoescape=True"
+    rationale: "索引页是浏览器渲染的 HTML，需防止项目描述中的 XSS 注入"
+  - decision: "generate_index() 用 try/except 包裹"
+    rationale: "索引页是便利功能，失败不应中断核心管线"
+  - decision: "语言标签去重不显示次数"
+    rationale: "简化实现，保留视觉一致性"
+
+artifacts:
+  - path: docs/superpowers/specs/2026-03-22-report-index-page-design.md
+    type: spec
+
+constraints:
+  - "不引入新的 Python 依赖（使用已有的 Jinja2）"
+  - "不修改 GitHub Actions workflow（git add reports/ 已覆盖）"
+  - "不修改 scraper/analyzer/pdf_generator 模块"
+
+risks:
+  - "JSON 文件格式未来可能变化，需要做好兼容处理"
+  - "报告数量极大时卡片网格可能需要分页（当前无需考虑）"
+
+next_skill: writing-plans
