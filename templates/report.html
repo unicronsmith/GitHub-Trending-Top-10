@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page {
+    size: A4;
+    margin: 2cm;
+    @bottom-center {
+      content: counter(page) " / " counter(pages);
+      font-size: 10px;
+      color: #999;
+    }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "Microsoft YaHei", "Noto Sans SC", "PingFang SC", sans-serif;
+    color: #333;
+    line-height: 1.7;
+    font-size: 11pt;
+  }
+
+  /* ── 封面 ── */
+  .cover {
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%);
+    color: #fff;
+    margin: -2cm;
+    padding: 3cm;
+  }
+
+  .cover-icon {
+    font-size: 72pt;
+    margin-bottom: 30px;
+  }
+
+  .cover h1 {
+    font-size: 28pt;
+    font-weight: 700;
+    margin-bottom: 15px;
+    background: linear-gradient(90deg, #58a6ff, #3fb950, #f78166);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .cover .subtitle {
+    font-size: 14pt;
+    color: #8b949e;
+    margin-bottom: 40px;
+  }
+
+  .cover .date {
+    font-size: 16pt;
+    color: #58a6ff;
+    border: 2px solid #58a6ff;
+    padding: 10px 30px;
+    border-radius: 8px;
+  }
+
+  /* ── 目录 ── */
+  .toc {
+    page-break-after: always;
+    padding-top: 20px;
+  }
+
+  .toc h2 {
+    font-size: 20pt;
+    color: #0d1117;
+    border-bottom: 3px solid #58a6ff;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+  }
+
+  .toc-item {
+    display: flex;
+    align-items: baseline;
+    padding: 12px 0;
+    border-bottom: 1px dashed #e1e4e8;
+  }
+
+  .toc-rank {
+    width: 35px;
+    height: 35px;
+    background: linear-gradient(135deg, #58a6ff, #3fb950);
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14pt;
+    margin-right: 15px;
+    flex-shrink: 0;
+  }
+
+  .toc-info { flex: 1; }
+
+  .toc-name {
+    font-size: 13pt;
+    font-weight: 600;
+    color: #0d1117;
+  }
+
+  .toc-desc {
+    font-size: 9pt;
+    color: #666;
+    margin-top: 3px;
+  }
+
+  .toc-meta {
+    text-align: right;
+    flex-shrink: 0;
+    margin-left: 15px;
+  }
+
+  .toc-lang {
+    font-size: 9pt;
+    padding: 3px 10px;
+    border-radius: 12px;
+    background: #f0f3f6;
+    color: #555;
+  }
+
+  /* ── 项目卡片 ── */
+  .project-card {
+    page-break-before: always;
+    padding-top: 10px;
+  }
+
+  .card-header {
+    background: linear-gradient(135deg, #0d1117, #161b22);
+    color: #fff;
+    padding: 25px 30px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
+
+  .card-rank-line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .card-rank {
+    background: linear-gradient(135deg, #f78166, #da3633);
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 20px;
+    font-size: 10pt;
+    font-weight: 700;
+    margin-right: 12px;
+  }
+
+  .card-lang-badge {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 9pt;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  .card-title {
+    font-size: 22pt;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+
+  .card-desc {
+    font-size: 11pt;
+    color: #8b949e;
+    line-height: 1.5;
+  }
+
+  .card-stats {
+    display: flex;
+    gap: 25px;
+    margin-top: 15px;
+  }
+
+  .stat {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 10pt;
+    color: #8b949e;
+  }
+
+  .stat-value {
+    color: #58a6ff;
+    font-weight: 700;
+    font-size: 12pt;
+  }
+
+  .card-url {
+    font-size: 9pt;
+    color: #58a6ff;
+    margin-top: 12px;
+    word-break: break-all;
+  }
+
+  /* ── AI 分析内容 ── */
+  .analysis {
+    padding: 0 5px;
+    line-height: 1.9;
+  }
+
+  .analysis p {
+    margin-bottom: 10px;
+  }
+
+  .analysis strong {
+    color: #0d1117;
+    font-size: 12pt;
+  }
+
+  /* ── 页脚 ── */
+  .footer-page {
+    page-break-before: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+    color: #8b949e;
+  }
+
+  .footer-page p {
+    font-size: 11pt;
+    margin-bottom: 8px;
+  }
+
+  .footer-page .powered {
+    font-size: 9pt;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<!-- 封面 -->
+<div class="cover">
+  <div class="cover-icon">&#x1F525;</div>
+  <h1>GitHub Trending Top 10</h1>
+  <p class="subtitle">每日热门开源项目深度解读</p>
+  <div class="date">{{ date }}</div>
+</div>
+
+<!-- 目录 -->
+<div class="toc">
+  <h2>&#x1F4D1; 今日榜单</h2>
+  {% for project in projects %}
+  <div class="toc-item">
+    <div class="toc-rank">{{ loop.index }}</div>
+    <div class="toc-info">
+      <div class="toc-name">{{ project.full_name }}</div>
+      <div class="toc-desc">{{ project.description[:80] }}{% if project.description|length > 80 %}...{% endif %}</div>
+    </div>
+    <div class="toc-meta">
+      <span class="toc-lang">{{ project.language }}</span>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- 项目卡片 -->
+{% for project in projects %}
+<div class="project-card">
+  <div class="card-header">
+    <div class="card-rank-line">
+      <span class="card-rank">#{{ loop.index }}</span>
+      <span class="card-lang-badge" style="background-color: {{ project.language_color or '#666' }}">{{ project.language }}</span>
+    </div>
+    <div class="card-title">{{ project.name }}</div>
+    <div class="card-desc">{{ project.description }}</div>
+    <div class="card-stats">
+      <div class="stat">&#x2B50; 总星标 <span class="stat-value">{{ "{:,}".format(project.total_stars) }}</span></div>
+      <div class="stat">&#x1F374; Forks <span class="stat-value">{{ "{:,}".format(project.total_forks) }}</span></div>
+      <div class="stat">&#x1F4C8; 今日 <span class="stat-value">+{{ "{:,}".format(project.today_stars) }}</span></div>
+    </div>
+    <div class="card-url">{{ project.url }}</div>
+  </div>
+
+  <div class="analysis">
+    {{ analyses[loop.index0] | replace('\n', '<br>') }}
+  </div>
+</div>
+{% endfor %}
+
+<!-- 尾页 -->
+<div class="footer-page">
+  <p>&#x1F4CA; 数据来源：github.com/trending</p>
+  <p>&#x1F4C5; 报告日期：{{ date }}</p>
+  <p class="powered">由 DeepSeek AI 提供智能分析 | 自动生成</p>
+</div>
+
+</body>
+</html>
