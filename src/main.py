@@ -1,11 +1,13 @@
 """GitHub Trending Top 10 每日报告 - 主入口"""
 
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from jinja2 import Environment, FileSystemLoader
 from scraper import fetch_trending, fetch_readme
 from analyzer import analyze_all
 from pdf_generator import generate_pdf
@@ -99,6 +101,82 @@ def update_readme(projects: list[dict], date: str):
     print(f"  README.md 已更新")
 
 
+WEEKDAY_CN = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+TEMPLATE_DIR = Path(__file__).resolve().parent.parent / "templates"
+
+
+def generate_index():
+    """扫描 reports/ 目录的 JSON 文件，生成历史报告索引页。"""
+    json_pattern = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
+    json_files = sorted(
+        [f for f in REPORTS_DIR.iterdir() if json_pattern.match(f.name)],
+        key=lambda f: f.stem,
+        reverse=True,
+    )
+
+    days = []
+    for jf in json_files:
+        try:
+            with open(jf, encoding="utf-8") as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"  警告：跳过损坏的 JSON 文件 {jf.name}：{e}")
+            continue
+
+        projects = data.get("projects", [])
+        date_str = data.get("date", jf.stem)
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+
+        # Top 3 项目名
+        top3 = [p.get("name", "unknown") for p in projects[:3]]
+
+        # 新上榜数量
+        new_count = sum(1 for p in projects if p.get("is_new"))
+
+        # 今日 Stars 总增长
+        total_today_stars = sum(p.get("today_stars", 0) for p in projects)
+
+        # 去重语言列表（保留顺序）
+        seen_langs = {}
+        for p in projects:
+            lang = p.get("language", "Unknown")
+            if lang not in seen_langs:
+                color = p.get("language_color") or "#666"
+                if not color:
+                    color = "#666"
+                seen_langs[lang] = color
+
+        languages = []
+        for name, color in seen_langs.items():
+            languages.append({
+                "name": name,
+                "fg": color,
+                "bg": f"{color}30",
+            })
+
+        days.append({
+            "date": date_str,
+            "weekday": WEEKDAY_CN[dt.weekday()],
+            "top3": top3,
+            "new_count": new_count,
+            "total_today_stars": total_today_stars,
+            "languages": languages,
+        })
+
+    # 渲染模板（autoescape=True 防 XSS）
+    env = Environment(
+        loader=FileSystemLoader(str(TEMPLATE_DIR)),
+        autoescape=True,
+    )
+    template = env.get_template("index.html")
+    html = template.render(days=days)
+
+    output_path = REPORTS_DIR / "index.html"
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"  索引页已生成：{output_path}")
+
+
 def main():
     # 使用美国东部时间（自动处理夏令时）
     today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
@@ -106,7 +184,7 @@ def main():
     print(f"=== GitHub Trending Top 10 日报 ({today}) ===\n")
 
     # 1. 爬取 Trending 数据
-    print("[1/5] 正在爬取 GitHub Trending 页面...")
+    print("[1/6] 正在爬取 GitHub Trending 页面...")
     projects = fetch_trending()
     if not projects:
         print("错误：未能获取到任何 Trending 项目")
@@ -114,14 +192,14 @@ def main():
     print(f"  已获取 {len(projects)} 个项目\n")
 
     # 2. 趋势对比
-    print("[2/5] 正在对比历史数据...")
+    print("[2/6] 正在对比历史数据...")
     yesterday_data = load_yesterday_data(today)
     projects = enrich_with_trends(projects, yesterday_data)
     new_count = sum(1 for p in projects if p.get("is_new"))
     print(f"  新上榜：{new_count} 个，连续上榜：{len(projects) - new_count} 个\n")
 
     # 3. 获取 README 并进行 AI 分析
-    print("[3/5] 正在获取 README 并生成 AI 分析...")
+    print("[3/6] 正在获取 README 并生成 AI 分析...")
     readmes = []
     for p in projects:
         print(f"  获取 README：{p['full_name']} ...")
@@ -131,13 +209,20 @@ def main():
     print()
 
     # 4. 保存数据并生成 PDF
-    print("[4/5] 正在保存数据并生成 PDF 报告...")
+    print("[4/6] 正在保存数据并生成 PDF 报告...")
     save_json(projects, analyses, today)
     output = generate_pdf(projects, analyses, today)
 
     # 5. 更新 README
-    print("[5/5] 正在更新 README.md...")
+    print("[5/6] 正在更新 README.md...")
     update_readme(projects, today)
+
+    # 6. 生成索引页
+    print("\n[6/6] 正在生成索引页...")
+    try:
+        generate_index()
+    except Exception as e:
+        print(f"  警告：索引页生成失败（不影响报告）：{e}")
 
     print(f"\n完成！报告已保存到：{output}")
 
