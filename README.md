@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-23）
+## 今日榜单（2026-03-24）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 21,199 | +1,787 | 🔥 2天 |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 38,368 | +1,051 | 🔥 2天 |
-| 3 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 12,550 | +1,069 | 🔥 2天 |
-| 4 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 5,011 | +237 | 🔥 2天 |
-| 5 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 100,068 | +3,724 | 🔥 2天 |
-| 6 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 11,666 | +834 | 🔥 2天 |
-| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 11,636 | +2,300 | 🔥 2天 |
-| 8 | [systemd/systemd](https://github.com/systemd/systemd) | C | 16,100 | +313 | 🔥 2天 |
-| 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 83,125 | +428 | 🔥 2天 |
-| 10 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | Python | 30,239 | +220 | 🔥 2天 |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 24,146 | +2,880 | 🔥 3天 |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 41,360 | +3,546 | NEW |
+| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 14,159 | +4,138 | 🔥 3天 |
+| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 13,318 | +1,309 | 🔥 3天 |
+| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 84,097 | +1,157 | 🔥 3天 |
+| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 40,092 | +2,530 | 🔥 3天 |
+| 7 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 31,969 | +56 | NEW |
+| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 103,394 | +4,458 | 🔥 3天 |
+| 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 12,007 | +919 | NEW |
+| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 42,972 | +487 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-03-23.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-24.pdf)
 
 ## 历史报告
 
