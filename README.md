@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-24）
+## 今日榜单（2026-03-25）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 24,146 | +2,880 | 🔥 3天 |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 41,360 | +3,546 | NEW |
-| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 14,159 | +4,138 | 🔥 3天 |
-| 4 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 13,318 | +1,309 | 🔥 3天 |
-| 5 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 84,097 | +1,157 | 🔥 3天 |
-| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 40,092 | +2,530 | 🔥 3天 |
-| 7 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 31,969 | +56 | NEW |
-| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 103,394 | +4,458 | 🔥 3天 |
-| 9 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 12,007 | +919 | NEW |
-| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 42,972 | +487 | NEW |
+| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 6,367 | +1,449 | NEW |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 45,119 | +4,346 | 🔥 2天 |
+| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 18,934 | +344 | NEW |
+| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 25,212 | +3,006 | 🔥 4天 |
+| 5 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 53,034 | +728 | NEW |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 15,871 | +2,513 | 🔥 4天 |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 41,467 | +1,760 | 🔥 4天 |
+| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 6,104 | +209 | NEW |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 25,521 | +1,397 | NEW |
+| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 12,905 | +1,278 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-03-24.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-25.pdf)
 
 ## 历史报告
 
