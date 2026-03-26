@@ -9,22 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-25）
+## 今日榜单（2026-03-26）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 6,367 | +1,449 | NEW |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 45,119 | +4,346 | 🔥 2天 |
-| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 18,934 | +344 | NEW |
-| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 25,212 | +3,006 | 🔥 4天 |
-| 5 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 53,034 | +728 | NEW |
-| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 15,871 | +2,513 | 🔥 4天 |
-| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 41,467 | +1,760 | 🔥 4天 |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 6,104 | +209 | NEW |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 25,521 | +1,397 | NEW |
-| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 12,905 | +1,278 | 🔥 2天 |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 8,765 | +1,341 | 🔥 2天 |
+| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 11,896 | +576 | NEW |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 18,651 | +274 | NEW |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 42,719 | +1,082 | NEW |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 47,464 | +3,787 | 🔥 3天 |
+| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | 10,528 | +1,381 | NEW |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 20,018 | +439 | NEW |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 40,952 | +264 | NEW |
+| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 5,653 | +546 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-03-25.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-26.pdf)
 
 ## 历史报告
 
