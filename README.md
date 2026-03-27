@@ -9,21 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-26）
+## 今日榜单（2026-03-27）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 8,765 | +1,341 | 🔥 2天 |
-| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 11,896 | +576 | NEW |
-| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 18,651 | +274 | NEW |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 42,719 | +1,082 | NEW |
-| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 47,464 | +3,787 | 🔥 3天 |
-| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | 10,528 | +1,381 | NEW |
-| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 20,018 | +439 | NEW |
-| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 40,952 | +264 | NEW |
-| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 5,653 | +546 | NEW |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 11,568 | +2,685 | 🔥 3天 |
+| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 13,291 | +598 | 🔥 2天 |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 19,302 | +210 | 🔥 2天 |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 43,582 | +1,002 | 🔥 2天 |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 49,562 | +2,394 | 🔥 4天 |
+| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | 11,603 | +1,370 | 🔥 2天 |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 20,921 | +437 | 🔥 2天 |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 41,593 | +117 | 🔥 2天 |
+| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 6,557 | +557 | 🔥 2天 |
+| 10 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | JavaScript | 687 | +33 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-03-26.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-27.pdf)
 
 ## 历史报告
 
