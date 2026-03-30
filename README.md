@@ -9,21 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-29）
+## 今日榜单（2026-03-30）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 84,717 | +1,814 | 🔥 2天 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 121,658 | +2,292 | 🔥 2天 |
-| 3 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 3,690 | +506 | 🔥 2天 |
-| 4 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 20,385 | +581 | 🔥 4天 |
-| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 42,580 | +563 | 🔥 4天 |
-| 6 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 19,978 | +880 | NEW |
-| 7 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 7,788 | +687 | 🔥 4天 |
-| 8 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 21,819 | +398 | NEW |
-| 9 | [apache/superset](https://github.com/apache/superset) | TypeScript | 71,617 | +31 | NEW |
+| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 28,343 | +1,056 | NEW |
+| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 8,873 | +1,165 | NEW |
+| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 16,896 | +835 | NEW |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 24,905 | +1,050 | NEW |
+| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 85,846 | +1,132 | 🔥 3天 |
+| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 64,249 | +137 | NEW |
+| 7 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 439,322 | +122 | NEW |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 74,254 | +68 | NEW |
+| 9 | [apache/superset](https://github.com/apache/superset) | TypeScript | 71,661 | +430 | 🔥 2天 |
+| 10 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | C | 21,278 | +37 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-03-29.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-30.pdf)
 
 ## 历史报告
 
