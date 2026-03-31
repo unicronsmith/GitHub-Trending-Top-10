@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-30）
+## 今日榜单（2026-03-31）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 28,343 | +1,056 | NEW |
-| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 8,873 | +1,165 | NEW |
-| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 16,896 | +835 | NEW |
-| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 24,905 | +1,050 | NEW |
-| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 85,846 | +1,132 | 🔥 3天 |
-| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 64,249 | +137 | NEW |
-| 7 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 439,322 | +122 | NEW |
-| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 74,254 | +68 | NEW |
-| 9 | [apache/superset](https://github.com/apache/superset) | TypeScript | 71,661 | +430 | 🔥 2天 |
-| 10 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | C | 21,278 | +37 | NEW |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 11,222 | +4,232 | 🔥 2天 |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 32,149 | +2,492 | 🔥 2天 |
+| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 18,007 | +1,791 | 🔥 2天 |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 27,274 | +1,108 | 🔥 2天 |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 19,436 | +1,851 | NEW |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 127,012 | +2,846 | NEW |
+| 7 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 16,062 | +251 | NEW |
+| 8 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 73,789 | +440 | NEW |
+| 9 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | Shell | 2,641 | +173 | NEW |
+| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 75,102 | +76 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-03-30.pdf)
+📄 [查看完整 PDF 报告](reports/2026-03-31.pdf)
 
 ## 历史报告
 
