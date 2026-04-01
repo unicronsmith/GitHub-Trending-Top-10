@@ -9,22 +9,20 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-03-31）
+## 今日榜单（2026-04-01）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 11,222 | +4,232 | 🔥 2天 |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 32,149 | +2,492 | 🔥 2天 |
-| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 18,007 | +1,791 | 🔥 2天 |
-| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 27,274 | +1,108 | 🔥 2天 |
-| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 19,436 | +1,851 | NEW |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 127,012 | +2,846 | NEW |
-| 7 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 16,062 | +251 | NEW |
-| 8 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 73,789 | +440 | NEW |
-| 9 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | Shell | 2,641 | +173 | NEW |
-| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 75,102 | +76 | 🔥 2天 |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 95,832 | +3,905 | NEW |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 33,826 | +3,863 | 🔥 3天 |
+| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 29,737 | +2,407 | 🔥 3天 |
+| 4 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 11,591 | +495 | NEW |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 14,538 | +2,390 | 🔥 3天 |
+| 6 | [axios/axios](https://github.com/axios/axios) | JavaScript | 108,752 | +88 | NEW |
+| 7 | [openai/codex](https://github.com/openai/codex) | Rust | 70,906 | +2,345 | NEW |
+| 8 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 155,496 | +421 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-03-31.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-01.pdf)
 
 ## 历史报告
 
