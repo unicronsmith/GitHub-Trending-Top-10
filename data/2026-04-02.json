@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T06:45:13.571225-04:00",
+  "projects": [
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "language_color": "#89e051",
+      "total_stars": 104535,
+      "total_forks": 16534,
+      "today_stars": 10749,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 34890,
+      "total_forks": 3968,
+      "today_stars": 1685,
+      "is_new": false,
+      "streak_days": 4
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 12739,
+      "total_forks": 1054,
+      "today_stars": 380,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 16455,
+      "total_forks": 1913,
+      "today_stars": 3301,
+      "is_new": false,
+      "streak_days": 4
+    },
+    {
+      "owner": "axios",
+      "name": "axios",
+      "full_name": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "total_stars": 108949,
+      "total_forks": 11589,
+      "today_stars": 93,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "language_color": "#dea584",
+      "total_stars": 72317,
+      "total_forks": 10113,
+      "today_stars": 2390,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "language_color": "#e34c26",
+      "total_stars": 156486,
+      "total_forks": 20544,
+      "today_stars": 398,
+      "is_new": false,
+      "streak_days": 2
+    }
+  ],
+  "analyses": [
+    "**项目简介**：Claude Code 是 Anthropic 推出的一个“智能体化”编程工具，它直接运行在终端中，旨在通过自然语言命令来理解和操作代码库。它解决了开发者在日常编码中需要频繁切换上下文、执行重复性任务和理解复杂代码逻辑的效率痛点。\n\n**核心功能**：1. **自然语言驱动**：用户可以用口语化的指令让其执行代码库相关的任务。2. **代码库理解与操作**：能够分析项目代码，执行如文件操作、代码生成等常规任务。3. **复杂代码解释**：帮助开发者快速理解陌生的或复杂的代码段。4. **Git工作流处理**：简化版本控制操作，如提交、分支管理等。\n\n**适用场景**：主要面向所有层级的软件开发者，尤其适合在需要快速熟悉新项目、进行日常代码维护（如重构、添加功能）、或希望减少机械性Git操作时使用。它既可以作为终端独立工具，也能集成到IDE中提升开发体验。\n\n**技术亮点**：其核心亮点在于“智能体”架构，它并非简单的代码片段生成器，而是一个能理解上下文并执行多步骤任务的自主代理。项目本身（这个Shell仓库）主要提供安装和插件框架，真正的“大脑”是云端的大型语言模型，这种设计使其能力强大且能持续更新。\n\n**上手建议**：对于使用者，强烈建议按照官方推荐的安装方式（如使用提供的安装脚本）进行一键部署，避免使用已弃用的npm方式。安装后，在项目目录中直接运行 `claude` 命令即可开始用自然语言交互。对于贡献者，可以从研究 `plugins` 目录开始，了解如何开发扩展插件来增加自定义命令或代理。",
+    "**项目简介**：VibeVoice 是微软开源的前沿语音AI模型家族，旨在提供高质量的文本转语音和语音转文本能力。它通过创新的架构，解决了传统语音模型在处理超长音频时效率低下、保真度不足的难题。\n\n**核心功能**：1. **超长文本转语音**：支持合成长达90分钟的多说话人语音。2. **实时流式TTS**：支持边输入文本边生成语音，延迟极低。3. **统一长音频识别**：可一次性处理长达60分钟的音频，并输出带说话人、时间戳的结构化文本。4. **多语言支持**：ASR原生支持超过50种语言，TTS也提供多语言实验性音色。\n\n**适用场景**：**内容创作者**（为长视频生成配音或字幕）、**开发者**（为应用集成实时语音交互）、**研究人员**（探索语音模型的前沿技术）以及**语音输入法**等工具开发者（如已采用该技术的Vibing输入法）。\n\n**技术亮点**：其核心创新在于**7.5Hz超低帧率的连续语音分词器**，在极大压缩序列长度的同时保持了音质。此外，它采用**基于大语言模型的下一代Token扩散框架**，将语音生成转化为类似文本生成的序列预测问题，显著提升了长序列建模的效率和质量。\n\n**上手建议**：新手可从Hugging Face Transformers库直接调用ASR模型，或通过官方Colab笔记本体验实时TTS演示。若想深入贡献或研究，建议仔细阅读技术报告，并从ASR微调代码或vLLM推理优化等已开源的模块入手。",
+    "**项目简介**：TimesFM 是 Google Research 开发的一个预训练时间序列基础模型，专门用于时间序列预测。它旨在解决传统预测方法需要针对每个数据集单独建模的痛点，通过一个通用模型实现“开箱即用”的零样本或少样本预测能力。\n\n**核心功能**：1. **零样本/少样本预测**：无需在目标数据上重新训练，即可对新时间序列进行预测。2. **超长上下文支持**：最新 2.5 版本支持高达 16k 的上下文长度，能处理更长的历史数据。3. **概率性预测**：通过可选的连续分位数预测头，提供包含不确定性的分位数预测结果。4. **多后端支持**：提供 PyTorch 和 Flax (JAX) 两种实现，兼顾易用性与推理速度。\n\n**适用场景**：数据分析师、算法工程师和研究人员在需要快速、通用时间序列预测的场景下会用到它，例如金融市场的初步分析、物联网设备的异常检测、零售销售的基线预测，或作为复杂预测流程的基准模型。\n\n**技术亮点**：其架构采用了**仅解码器的 Transformer 模型**（类似 GPT），将时间序列的“补全”视为一种语言建模任务，这是将大语言模型思想成功迁移到时序领域的典范。模型通过海量、多样的公开时序数据集进行预训练，从而获得了强大的泛化能力，并能通过配置灵活调整预测行为。\n\n**上手建议**：建议从阅读官方 [Google Research 博客](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/) 和 [ICML 2024 论文](https://arxiv.org/abs/2310.10688) 开始，了解其核心思想。实践上，可直接使用 README 中的代码示例，在 Hugging Face 上加载预训练模型进行快速测试。对于贡献者，可以关注项目待完善的文档、Flax 版本优化以及协变量支持等功能。",
+    "**项目简介**：这是一个针对 Claude Code（Claude 的 IDE 插件）的视觉化、示例驱动的实战指南。它解决了开发者面对官方文档时“知道功能但不知如何组合应用”、“缺乏清晰学习路径”以及“示例过于基础”的痛点，旨在帮助用户快速掌握从基础到高级代理的全部能力。\n\n**核心功能**：1. **结构化学习路径**：提供从入门到精通的10个渐进式教程模块。2. **开箱即用模板**：包含可直接复制粘贴的配置、脚本和完整插件包。3. **可视化原理图**：使用 Mermaid 图表展示各功能内部工作机制。4. **内置自测与评估**：支持在 Claude Code 内运行 `/self-assessment` 等命令进行知识查漏。\n\n**适用场景**：主要面向已安装 Claude Code 但希望深度挖掘其潜力的开发者，尤其适合想构建自动化代码审查、智能部署流水线等复杂工作流的工程师或团队，用于提升开发效率。\n\n**技术亮点**：其亮点并非底层代码创新，而在于**卓越的知识工程与教育设计**。它将零散的官方功能通过精心设计的“组合拳”串联成可落地的解决方案，并深度集成到 Claude Code 环境中（如直接运行测验），实现了“学中做，做中学”的沉浸式体验。\n\n**上手建议**：新用户可直接在 Claude Code 中运行 `/self-assessment` 命令获取个性化学习路线图，或从 README 的“15 分钟快速入门”章节开始。贡献者可以查阅 `CATALOG.md` 了解功能目录，或通过提交 Issue、完善教程模块来参与。",
+    "**项目简介**：Axios 是一个基于 Promise 的 HTTP 客户端库，用于浏览器和 Node.js 环境。它解决了在 JavaScript 中进行网络请求时，原生 API（如 `fetch` 或 `XMLHttpRequest`）使用繁琐、功能不统一和浏览器兼容性等问题，为开发者提供了一个简洁、强大且一致的 API。\n\n**核心功能**：\n1.  **支持 Promise API**：所有请求都返回 Promise，便于使用 `async/await` 或 `.then/.catch` 进行异步处理。\n2.  **请求/响应拦截器**：允许在请求发出前或响应返回后，全局性地修改配置、添加认证头或处理错误。\n3.  **自动转换 JSON 数据**：请求数据可自动序列化，响应数据可自动解析为 JavaScript 对象。\n4.  **客户端 XSRF 防护**：内置对跨站请求伪造（XSRF）的防护支持。\n5.  **取消请求**：提供了取消正在进行的 HTTP 请求的能力。\n\n**适用场景**：任何需要在浏览器或 Node.js 中发起 HTTP 请求的 JavaScript 开发者都会用到它。无论是构建前端单页应用（SPA）与后端 API 交互，还是在服务端（Node.js）进行服务间通信或爬虫，Axios 都是处理网络请求的通用首选工具。\n\n**技术亮点**：其最大的技术亮点在于**出色的适配层设计**。它通过一个通用的适配器（Adapter）接口，在底层智能地根据运行环境（浏览器或 Node.js）切换使用 `XMLHttpRequest` 或 `http` 模块，实现了“写一次代码，到处运行”。同时，其**拦截器机制**和**配置的默认值/合并策略**设计得非常灵活且强大。\n\n**上手建议**：对于使用者，直接从官方文档的“示例”部分开始是最快的，通过几个基础的 GET、POST 请求示例就能掌握核心用法。对于潜在的贡献者，建议先详细阅读项目的贡献指南，然后可以从解决标记为 `good first issue` 的问题或改进文档开始入手。",
+    "**项目简介**：OpenAI Codex 是一个轻量级的本地化编程助手，它作为一个命令行工具运行在终端中。该项目旨在将强大的AI编程能力直接带到开发者的本地工作流中，解决在IDE和浏览器之外快速获取代码建议、解释和生成的需求。\n\n**核心功能**：1. **本地终端交互**：直接在终端中与AI编程助手对话，无需切换至网页或特定编辑器。2. **多平台支持**：提供npm、Homebrew及预编译二进制包，支持macOS和Linux系统。3. **身份集成**：支持使用ChatGPT账户（Plus/Pro/Team等计划）登录，将服务配额与现有订阅绑定。4. **多形态入口**：除了CLI，还引导用户使用IDE插件、桌面应用或云端Web版本，满足不同偏好。\n\n**适用场景**：**终端重度用户**和**全栈开发者**在日常编码、调试或学习时，希望在命令行环境中快速获得代码片段、解释错误或重构建议。它也适合那些偏好轻量级、不依赖特定IDE工具链，并已订阅ChatGPT相关服务的程序员。\n\n**技术亮点**：项目使用**Rust**编写，确保了高性能、低资源占用和出色的跨平台编译能力（生成musl静态链接的Linux二进制包，兼容性极佳）。其架构将复杂的AI服务封装为简洁的本地客户端，通过优雅的包管理分发，体现了对开发者体验的深度优化。\n\n**上手建议**：对于使用者，最简单的方式是直接通过`npm install -g @openai/codex`或`brew install --cask codex`安装，随后运行`codex`命令并按提示登录ChatGPT账户即可开始。对于贡献者，建议先阅读仓库中的[Contributing](https://github.com/openai/codex/blob/main/docs/contributing.md)和[Installing & building](https://github.com/openai/codex/blob/main/docs/install.md)文档，了解Rust项目的构建与开发流程。",
+    "**项目简介**：f/prompts.chat（前身为 Awesome ChatGPT Prompts）是世界上最大的开源 AI 提示词库。它旨在解决用户在使用 ChatGPT、Claude 等大语言模型时，不知道如何写出高质量、有效指令（即“提示词”）的痛点，通过社区共享和收集的方式，降低 AI 使用的门槛。\n\n**核心功能**：1. 提供海量、分类清晰的优质提示词示例，可直接使用或作为模板。2. 支持用户在线提交和分享新提示词，形成社区驱动的知识库。3. 提供完整的私有化部署方案，供组织内部安全使用。4. 包含面向儿童的交互式游戏化学习模块和系统的提示工程免费电子书。\n\n**适用场景**：AI 初学者、内容创作者、开发者、教育工作者以及任何希望更高效利用大语言模型的人。无论是想快速生成特定风格的文本、进行头脑风暴，还是企业希望内部统一和优化 AI 使用流程，都可以在此找到灵感和工具。\n\n**技术亮点**：项目本身是一个静态网站（HTML），结构清晰简单。其亮点在于强大的生态集成，如提供 CSV、Markdown 等多种数据格式，并同步至 Hugging Face 数据集，方便开发者集成。一键私有化部署工具链（npx/cli）和详细的 Docker 指南，也体现了对实际生产部署场景的深度支持。\n\n**上手建议**：新用户可直接访问 [prompts.chat](https://prompts.chat) 网站浏览和搜索提示词，立即使用。想深入学习，可从其免费的《The Interactive Book of Prompting》电子书开始。若想为社区做贡献，可通过网站上的提交表单添加新提示词。对于技术贡献或私有化部署，可仔细阅读仓库中的 `SELF-HOSTING.md` 和 `DOCKER.md` 文档。"
+  ]
+}

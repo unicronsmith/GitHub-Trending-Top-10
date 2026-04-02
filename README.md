@@ -9,20 +9,19 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-01）
+## 今日榜单（2026-04-02）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 95,832 | +3,905 | NEW |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 33,826 | +3,863 | 🔥 3天 |
-| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 29,737 | +2,407 | 🔥 3天 |
-| 4 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 11,591 | +495 | NEW |
-| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 14,538 | +2,390 | 🔥 3天 |
-| 6 | [axios/axios](https://github.com/axios/axios) | JavaScript | 108,752 | +88 | NEW |
-| 7 | [openai/codex](https://github.com/openai/codex) | Rust | 70,906 | +2,345 | NEW |
-| 8 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 155,496 | +421 | NEW |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 104,535 | +10,749 | 🔥 2天 |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 34,890 | +1,685 | 🔥 4天 |
+| 3 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 12,739 | +380 | 🔥 2天 |
+| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 16,455 | +3,301 | 🔥 4天 |
+| 5 | [axios/axios](https://github.com/axios/axios) | JavaScript | 108,949 | +93 | 🔥 2天 |
+| 6 | [openai/codex](https://github.com/openai/codex) | Rust | 72,317 | +2,390 | 🔥 2天 |
+| 7 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 156,486 | +398 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-04-01.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-02.pdf)
 
 ## 历史报告
 
