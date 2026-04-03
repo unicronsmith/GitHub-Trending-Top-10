@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T06:36:22.533465-04:00",
+  "projects": [
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 17148,
+      "total_forks": 1164,
+      "today_stars": 2573,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 12951,
+      "total_forks": 1192,
+      "today_stars": 2867,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "language": "Unknown",
+      "language_color": "",
+      "total_stars": 36940,
+      "total_forks": 6099,
+      "today_stars": 306,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 77861,
+      "total_forks": 9108,
+      "today_stars": 827,
+      "is_new": true,
+      "streak_days": 1
+    }
+  ],
+  "analyses": [
+    "**项目简介**：OpenScreen 是一个免费、开源的屏幕录制与演示视频制作工具，旨在为用户提供一个轻量级替代品，以替代 Screen Studio 这类付费软件。它解决了用户（尤其是个人开发者和小团队）需要制作精美产品演示、教程视频，但不愿支付高昂订阅费用的痛点。\n\n**核心功能**：其核心功能包括：录制全屏或特定窗口；添加自动或手动缩放（可自定义深度）；同时录制麦克风和系统音频；以及丰富的后期编辑能力，如添加标注（文字、箭头）、裁剪、变速和自定义背景（壁纸、纯色、渐变）。\n\n**适用场景**：主要适用于需要快速制作产品演示、软件教程、工作流程展示的内容创作者、开发者、产品经理和教育工作者。无论是用于商业宣传、内部培训，还是开源项目介绍，它都是一个经济实惠的选择。\n\n**技术亮点**：项目基于 Electron 构建，实现了跨平台（macOS、Windows、Linux）的桌面应用。前端采用 React + TypeScript + Vite 的现代技术栈，并使用 PixiJS 处理图形渲染（如运动模糊效果），`dnd-timeline` 库则可能用于实现直观的时间轴拖拽编辑。\n\n**上手建议**：普通用户可直接从 GitHub Releases 页面下载对应系统的安装包使用，注意阅读文档中关于系统权限（如 macOS 屏幕录制）和音频捕获限制的说明。对于开发者，可以从查看项目路线图和开放的 Issue 开始，了解当前开发重点，技术栈熟悉者可以很容易地参与功能开发或问题修复。",
+    "**项目简介**：oh-my-codex (OMX) 是一个构建在 OpenAI Codex CLI 之上的工作流增强层。它并不替代 Codex 这个执行引擎，而是通过提供一套标准化的协作流程和运行时环境，解决开发者在使用 Codex 时可能遇到的指令模糊、任务规划复杂和状态管理困难等问题，让 AI 编程助手变得更强大、更系统化。\n\n**核心功能**：1) **标准化工作流**：提供 `$deep-interview`（深度澄清）、`$ralplan`（计划审批）、`$team`（团队并行执行）和 `$ralph`（持久化完成循环）等核心命令，将任务从澄清到完成串联起来。2) **角色与技能库**：内置专家角色和可复用的技能，应对复杂任务。3) **项目状态管理**：在项目根目录的 `.omx/` 文件夹中持久化存储计划、日志、记忆和运行时状态。\n\n**适用场景**：主要面向**已经熟悉并经常使用 OpenAI Codex CLI 的开发者**。适用于需要 Codex 处理**复杂、多步骤或边界模糊的编程任务**的场景，例如系统架构设计、大型功能重构或需要多“智能体”协作的工程问题，它能将零散的对话转化为可管理、可追溯的结构化工作流。\n\n**技术亮点**：作为 TypeScript 项目，它深度集成并扩展了 Codex CLI，其架构设计清晰地区分了执行引擎（Codex）与工作流层（OMX）。值得关注的是其**“团队”并行执行模式**，它利用 `tmux`（macOS/Linux）或 `psmux`（Windows）来管理多个并行的 Codex 会话，实现了真正的多智能体协作运行时环境。\n\n**上手建议**：对于使用者，务必先确保已安装并配置好 Codex CLI，然后严格遵循官方推荐的 `omx setup` 及 `omx --madmax --high` 启动流程，并尝试从 `$deep-interview` 到 `$ralplan` 再到 `$team`/`$ralph` 的规范工作流开始体验。对于贡献者，可以从阅读文档、理解其与 Codex CLI 的交互机制入手，并在 Discord 社区中与核心维护者交流。",
+    "**项目简介**：这是一个专门收集和整理各大主流AI模型“系统提示词”的开源仓库。它解决了AI系统内部指令不透明的问题，通过逆向工程等手段，将ChatGPT、Claude、Gemini等模型的“出厂设置”公之于众，让用户和研究者得以一窥这些AI助手背后的行为准则和设计逻辑。\n\n**核心功能**：1. **集中展示**：汇总了来自OpenAI、Anthropic、Google、xAI等公司的数十个模型及变体的系统提示。2. **版本追踪**：不仅包含最新版本（如GPT-5.4、Claude Opus 4.6），也收录了历史版本和特定变体（如“无工具”版本）。3. **场景细分**：区分了不同使用场景的提示词，如API调用、思考过程、特定工具（搜索、画布）的指令。4. **持续更新**：项目承诺定期更新，并欢迎社区通过PR贡献新的发现。\n\n**适用场景**：**AI研究者与开发者**可将其作为理解模型行为边界、进行提示工程或模型对齐研究的宝贵资料；**高级用户和爱好者**可以学习顶级AI产品的设计思路，优化自己的使用策略；**安全与审计人员**则能借此分析潜在的风险指令或偏见来源。\n\n**技术亮点**：项目的技术价值不在于代码实现，而在于其**逆向工程的方法论和系统性整理**。它通过巧妙的“提示词注入”或分析网络流量等方式，从“黑箱”中提取出这些通常被严格保密的元指令，并以高度结构化的Markdown文档呈现，形成了独一无二的AI系统内部指令知识库。\n\n**上手建议**：对于使用者，直接从README的表格中点击你感兴趣的模型链接（如GPT-5.4的“思考”提示）开始阅读即可。对于想要贡献的开发者，可以关注仓库的Issues或尝试用项目未涵盖的方法提取新模型/新版本的提示词，并通过Pull Request提交。",
+    "**项目简介**：Sherlock 是一个用 Python 编写的开源情报（OSINT）工具，旨在通过用户名在全球 400 多个社交网络和网站上进行批量搜索。它解决了手动逐个平台查找用户账号的繁琐问题，为数字足迹调查提供了高效的自动化方案。\n\n**核心功能**：1. **跨平台批量查询**：支持单次输入多个用户名，自动在数百个站点进行搜索。2. **灵活的输出格式**：支持将结果保存为文本、CSV、Excel 或 JSON 文件。3. **隐私与匿名化选项**：支持通过 Tor 或代理进行请求，以保护调查者自身隐私。4. **高度可定制**：允许用户通过参数指定搜索站点、调整超时时间或仅输出特定结果。\n\n**适用场景**：网络安全研究人员、渗透测试人员、社会工程学调查者或任何需要验证用户名在互联网上使用范围的人会用到它。典型场景包括数字身份审计、品牌保护（查找冒名账号）或背景调查中的信息收集。\n\n**技术亮点**：其核心在于维护了一个庞大的、持续更新的 `data.json` 文件，其中定义了每个目标站点的查询接口（URL 模式、响应解析逻辑等）。项目通过异步请求和错误处理机制来高效管理大量网络请求，并且其模块化设计使得社区可以轻松地为新网站贡献支持代码。\n\n**上手建议**：新手可以从最简单的 `pipx install sherlock-project` 安装开始，并尝试 `sherlock yourusername` 进行初体验。想要深入了解或贡献代码，应仔细阅读项目 Wiki 中的贡献指南，从理解 `sites.md` 和 `data.json` 的数据结构入手，学习如何为新的社交网站添加支持模块。"
+  ]
+}

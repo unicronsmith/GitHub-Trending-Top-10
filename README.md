@@ -9,19 +9,16 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-02）
+## 今日榜单（2026-04-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 104,535 | +10,749 | 🔥 2天 |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 34,890 | +1,685 | 🔥 4天 |
-| 3 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 12,739 | +380 | 🔥 2天 |
-| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 16,455 | +3,301 | 🔥 4天 |
-| 5 | [axios/axios](https://github.com/axios/axios) | JavaScript | 108,949 | +93 | 🔥 2天 |
-| 6 | [openai/codex](https://github.com/openai/codex) | Rust | 72,317 | +2,390 | 🔥 2天 |
-| 7 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 156,486 | +398 | 🔥 2天 |
+| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 17,148 | +2,573 | NEW |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 12,951 | +2,867 | NEW |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Unknown | 36,940 | +306 | NEW |
+| 4 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 77,861 | +827 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-03.pdf)
 
 ## 历史报告
 
