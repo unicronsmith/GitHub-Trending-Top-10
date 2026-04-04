@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T06:25:39.347440-04:00",
+  "projects": [
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 14753,
+      "total_forks": 1368,
+      "today_stars": 3047,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 23632,
+      "total_forks": 3166,
+      "today_stars": 1852,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 14383,
+      "total_forks": 1241,
+      "today_stars": 916,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 18736,
+      "total_forks": 1288,
+      "today_stars": 2771,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "dmtrKovalenko",
+      "name": "fff.nvim",
+      "full_name": "dmtrKovalenko/fff.nvim",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "language_color": "#dea584",
+      "total_stars": 3429,
+      "total_forks": 141,
+      "today_stars": 750,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "language_color": "#e34c26",
+      "total_stars": 157365,
+      "total_forks": 20615,
+      "today_stars": 375,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 78825,
+      "total_forks": 9207,
+      "today_stars": 1192,
+      "is_new": false,
+      "streak_days": 2
+    }
+  ],
+  "analyses": [
+    "**项目简介**：oh-my-codex (OMX) 是一个为 OpenAI Codex CLI 构建的增强型工作流层。它不替代 Codex 这个核心执行引擎，而是通过提供标准化的流程、可复用的技能和持久化的状态管理，来解决开发者在使用 Codex 时可能面临的流程混乱、上下文丢失和协作效率低下等问题，旨在让 AI 辅助编程的体验更强大、更系统化。\n\n**核心功能**：1. **标准化工作流**：提供 `$deep-interview`（深度澄清）、`$ralplan`（计划审批）、`$team`（团队并行执行）和 `$ralph`（持久化完成循环）等核心命令，将任务从澄清到完成的流程固化。2. **可复用技能与角色**：内置了专家角色和技能，用户可以通过关键词调用，无需重复设计提示词。3. **持久化状态管理**：在项目目录下的 `.omx/` 文件夹中存储计划、日志、记忆和运行时状态，保证会话间的连续性。4. **项目引导与集成**：支持通过 `AGENTS.md` 等文件提供项目级指导，并能与其他工具集成。\n\n**适用场景**：该项目主要面向**已经熟悉并经常使用 OpenAI Codex CLI 进行开发的工程师或技术团队**。适用于需要**系统化、可重复地**利用 AI 完成复杂编码任务（如架构评审、功能实现、重构）的场景，尤其适合那些希望将 AI 协作流程标准化，并需要跨会话保持任务上下文和计划的项目。\n\n**技术亮点**：1. **架构清晰**：明确作为 Codex 的“工作流层”，而非重造轮子，利用了现有成熟引擎。2. **状态驱动设计**：通过本地 `.omx/` 目录管理状态，实现了工作流的持久化和可恢复性，这是提升复杂任务协作体验的关键。3. **命令抽象**：将最佳实践（如深度访谈、计划评审）封装成简单的 `$` 命令，降低了使用高级工作流的认知负担和操作成本。\n\n**上手建议**：对于使用者，请严格遵循 README 中的“Recommended default flow”：先全局安装 Codex CLI 和 OMX，运行 `omx setup` 进行初始化，然后使用 `omx --madmax --high` 启动增强会话，并尝试 `$deep-interview` -> `$ralplan` -> `$team`/`$ralph` 的标准工作流。对于贡献者，建议从阅读项目文档和 TypeScript 源码开始，理解其扩展机制（如技能、集成），并可以优先查看 `docs/` 目录下的文件以了解设计理念。",
+    "**项目简介**：Onyx 是一个开源 AI 平台，旨在成为大语言模型（LLM）的“应用层”。它通过提供一个功能丰富的界面，解决了用户需要自行整合RAG、联网搜索、代码执行等多种高级AI能力才能构建实用应用的痛点，让任何人都能轻松部署和使用一个全功能的AI助手平台。\n\n**核心功能**：1. **智能RAG与深度研究**：提供基于混合索引和AI智能体的检索增强生成，并能进行多步骤深度研究生成报告。2. **多模态与行动能力**：支持图像生成、语音对话，并能通过内置动作和MCP协议与外部应用交互。3. **广泛的模型与部署支持**：兼容所有主流LLM提供商（如OpenAI、Anthropic、Ollama等），并提供“标准版”和轻量“Lite版”两种部署模式以适应不同资源需求。\n\n**适用场景**：适用于**开发者和技术团队**，用于快速搭建内部AI助手、知识库问答系统或智能客服原型；也适合**企业**用于部署需要高级AI功能、团队协作和严格权限控制（如SSO、RBAC）的内部生产级AI平台。\n\n**技术亮点**：其架构设计颇具巧思，通过提供“标准”与“Lite”两种部署模式，在功能完备性与资源消耗之间取得了优雅的平衡。同时，它原生集成了超过50种数据源连接器，并支持新兴的MCP（模型上下文协议），极大地扩展了AI智能体与外部工具和数据的交互能力。\n\n**上手建议**：对于新用户，最快捷的方式是使用其单行命令 `curl -fsSL https://onyx.app/install_onyx.sh | bash` 进行部署，或直接试用其托管的 [Onyx Cloud](https://cloud.onyx.app/signup) 服务。想要深入了解或贡献代码，应从详细的项目 [文档](https://docs.onyx.app/) 和 GitHub 仓库的 Issues、Discussions 板块开始。",
+    "**项目简介**：TimesFM 是 Google Research 开发的一个预训练时间序列基础模型，旨在解决时间序列预测问题。它类似于 NLP 领域的 GPT，试图通过一个通用模型来应对不同领域、不同频率的预测任务，减少对特定数据集的依赖和繁琐的模型调优。\n\n**核心功能**：1. **零样本/少样本预测**：基于预训练知识，无需或仅需少量历史数据即可对新序列进行预测。2. **长上下文支持**：最新 2.5 版本支持高达 16k 的上下文长度，能处理更长的历史信息。3. **概率性预测**：通过可选的连续分位数预测头，提供包含不确定性的分位数预测结果。4. **多框架支持**：提供 PyTorch 和 Flax (JAX) 两种后端，兼顾易用性和推理速度。\n\n**适用场景**：适用于需要快速、灵活进行时间序列预测的场景，如金融分析（股价、销量）、运维监控（服务器指标）、物联网传感器数据分析等。尤其适合数据稀缺、需要快速原型验证或处理大量异构序列的从业者（数据科学家、算法工程师）。\n\n**技术亮点**：其架构采用**纯解码器（Decoder-only）** 的 Transformer，借鉴了大语言模型的思想来处理时间序列的“token”。模型通过海量、多样的公开时间序列数据进行预训练，学习到了通用的时序模式，这是其实现强大零样本能力的关键。从 2.0 到 2.5 的演进体现了“小而精”的思路，参数从 5 亿降至 2 亿，性能却因架构和训练优化而提升。\n\n**上手建议**：建议从官方 Hugging Face 仓库下载预训练模型，并运行 README 中的基础示例代码，快速体验零样本预测流程。若想深入理解，可阅读 ICML 2024 的论文和项目 Wiki。对于贡献者，可以关注项目路线图中提到的完善文档、添加示例等任务。",
+    "**项目简介**：OpenScreen 是一个免费、开源的屏幕录制与演示视频制作工具，旨在为用户提供一个轻量级的 Screen Studio 替代品。它解决了用户制作精美产品演示和操作教程时，不愿支付高昂订阅费用（如 Screen Studio 的 29 美元/月）的核心痛点。\n\n**核心功能**：支持全屏或指定窗口录制，并自动/手动添加可自定义的缩放效果；提供丰富的背景选项（壁纸、纯色、渐变等）及运动模糊、标注（文字、箭头）、片段剪辑和变速功能；可同时录制麦克风和系统音频，并支持多种导出比例与分辨率。\n\n**适用场景**：适合独立开发者、产品经理、教育工作者或中小团队，用于快速制作软件演示、产品功能介绍、教学视频等场景。尤其适合预算有限但需要基础录制与编辑功能的用户。\n\n**技术亮点**：基于 Electron 实现跨平台桌面应用，结合 React + TypeScript + Vite 构建现代前端界面；利用 PixiJS 处理图形渲染（如缩放、运动模糊），并通过 Electron 的 `desktopCapturer` 实现系统音频捕获（不同平台有差异）。\n\n**上手建议**：使用者可直接从 GitHub Releases 页面下载对应系统的安装包，注意根据 README 中的平台指引配置权限（如 macOS 的屏幕录制权限）。贡献者可先查看项目路线图和开放议题，从 TypeScript/React 相关的功能改进或跨平台问题修复入手。",
+    "**项目简介**：FFF.nvim 是一个专注于极致性能和智能搜索的模糊文件查找工具包。它旨在为 Neovim 用户和 AI 智能体（通过 MCP 协议）提供最快、最准确的文件搜索体验，通过内置的“记忆”机制（如文件访问频率、Git 状态等）优化搜索结果。\n\n**核心功能**：1. **高速模糊文件查找**：在大型代码库（如 Linux 内核）中也能实现即时搜索。2. **智能结果排序**：结合访问频率（frecency）、Git 状态、文件大小等多维度因素对结果进行智能评分和排序。3. **多模式搜索**：支持文件模糊匹配、实时 Grep（含模糊和精确模式）以及 glob 模式。4. **AI 智能体集成**：作为 MCP 工具，可显著减少 AI 编码助手的 Token 消耗和搜索往返时间。\n\n**适用场景**：1. **Neovim 高级用户**：在日常开发中需要快速、精准地定位项目文件或代码片段。2. **AI 智能体/编码助手使用者**：希望为 Claude Code 等工具配备一个高效、节省 Token 的文件搜索引擎。3. **大型项目开发者**：在包含数万文件、数 GB 代码的仓库中工作，对搜索性能有苛刻要求。\n\n**技术亮点**：1. **Rust 实现**：确保了底层搜索工具的高性能和低内存占用。2. **智能评分系统**：搜索结果并非简单按字母排序，而是通过一个复杂的评分算法综合多种上下文因素，提供“抗拼写错误”的体验。3. **懒加载与预构建**：Neovim 插件采用懒加载初始化，并提供预构建的二进制文件或源码编译选项，简化安装流程。\n\n**上手建议**：对于 **Neovim 用户**，建议从 README 中的 `lazy.nvim` 配置示例开始，先体验 `ff`（找文件）和 `fg`（实时 grep）等默认快捷键。对于 **AI 智能体用户**，可以运行提供的安装脚本，并参照示例修改 `CLAUDE.md` 文件来启用 FFF 工具。贡献者可以从项目的 Issues 页面开始，或开启调试模式（`show_scores = true`）帮助优化评分算法。",
+    "**项目简介**：f/prompts.chat 是目前全球最大的开源 AI 提示词库，前身为 Awesome ChatGPT Prompts。它旨在解决用户在使用 ChatGPT、Claude 等大语言模型时，难以构思和编写高质量提示词（Prompt）的痛点，通过社区共享和发现的方式，降低 AI 使用门槛，提升对话效果。\n\n**核心功能**：1. 提供海量、精心分类的提示词示例，覆盖写作、编程、分析等多种场景。2. 支持用户在线提交和分享新提示词，形成社区驱动的知识库。3. 提供完整的私有化部署方案，供组织内部安全使用。4. 附带交互式提示工程教程和面向儿童的趣味学习游戏。\n\n**适用场景**：AI 初学者、研究人员、内容创作者、开发者以及任何希望更高效利用大语言模型的个人或团队。无论是寻找灵感、学习提示技巧，还是为企业搭建内部提示词知识库，该项目都能提供支持。\n\n**技术亮点**：项目本身是一个静态网站（HTML），结构清晰简单。其亮点在于强大的生态集成，如提供 CSV、Hugging Face 数据集等多种数据格式，以及便捷的一键私有化部署工具（`npx prompts.chat new`），极大降低了自建服务的复杂度。\n\n**上手建议**：对于使用者，直接访问 [prompts.chat](https://prompts.chat) 浏览和搜索提示词是最快的方式。对于贡献者，可通过网站上的提交表单添加新提示。若想为组织部署私有版本，按照 README 中的“Quick Start”命令即可快速初始化。",
+    "**项目简介**：Sherlock 是一个用 Python 编写的开源情报（OSINT）工具，旨在通过用户名在互联网上追踪和定位目标人物在各大社交网络上的账户。它解决了手动逐个平台搜索的低效问题，将跨平台的身份关联自动化，是数字足迹调查的利器。\n\n**核心功能**：1. **批量跨平台查询**：支持对单个或多个用户名，在超过 400 个社交网站、论坛和平台进行并发查询。2. **灵活的输出与过滤**：支持将结果以文本、CSV、Excel 格式保存，并可指定特定网站或使用代理/Tor 网络进行匿名查询。3. **云端与容器化运行**：除了本地安装，还提供 Docker 镜像和 Apify 云端 Actor，降低了使用门槛并增强了可移植性。\n\n**适用场景**：主要适用于网络安全研究人员、渗透测试人员、调查记者以及个人隐私审计者。例如，用于评估个人网络身份的暴露程度、调查网络欺诈者的关联账户，或在安全评估中收集目标的社会工程学信息。\n\n**技术亮点**：其核心在于维护了一个庞大的、可扩展的 `data.json` 站点配置文件，其中定义了每个网站的查询逻辑（URL 构造、响应解析）。项目通过异步请求和自定义超时机制高效处理大量网络查询，并且通过支持 Tor 和代理，在设计上考虑了隐私和规避封锁的需求。\n\n**上手建议**：新手建议直接使用 `pipx install sherlock-project` 进行最简安装，并通过 `sherlock --help` 和尝试搜索自己的用户名来熟悉基本流程。有意贡献者可以从阅读贡献指南开始，最直接的贡献方式是研究并提交对新社交网站的支持（修改 `data.json` 文件）。"
+  ]
+}

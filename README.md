@@ -9,16 +9,19 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-03）
+## 今日榜单（2026-04-04）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 17,148 | +2,573 | NEW |
-| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 12,951 | +2,867 | NEW |
-| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Unknown | 36,940 | +306 | NEW |
-| 4 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 77,861 | +827 | NEW |
+| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 14,753 | +3,047 | 🔥 2天 |
+| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 23,632 | +1,852 | NEW |
+| 3 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 14,383 | +916 | NEW |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 18,736 | +2,771 | 🔥 2天 |
+| 5 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 3,429 | +750 | NEW |
+| 6 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 157,365 | +375 | NEW |
+| 7 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 78,825 | +1,192 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-04-03.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-04.pdf)
 
 ## 历史报告
 
