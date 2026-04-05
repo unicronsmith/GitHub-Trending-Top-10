@@ -9,19 +9,20 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-04）
+## 今日榜单（2026-04-05）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 14,753 | +3,047 | 🔥 2天 |
-| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 23,632 | +1,852 | NEW |
-| 3 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 14,383 | +916 | NEW |
-| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 18,736 | +2,771 | 🔥 2天 |
-| 5 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 3,429 | +750 | NEW |
-| 6 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 157,365 | +375 | NEW |
-| 7 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 78,825 | +1,192 | 🔥 2天 |
+| 1 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 3,749 | +343 | NEW |
+| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 24,573 | +1,197 | 🔥 2天 |
+| 3 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 16,128 | +1,789 | 🔥 3天 |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 21,273 | +1,591 | 🔥 3天 |
+| 5 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | 30,915 | +249 | NEW |
+| 6 | [block/goose](https://github.com/block/goose) | Rust | 35,961 | +935 | NEW |
+| 7 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | 8,838 | +72 | NEW |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 79,697 | +994 | 🔥 3天 |
 
-📄 [查看完整 PDF 报告](reports/2026-04-04.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-05.pdf)
 
 ## 历史报告
 
