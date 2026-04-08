@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-07）
+## 今日榜单（2026-04-08）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 24,015 | +857 | 🔥 2天 |
-| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 18,318 | +1,107 | 🔥 2天 |
-| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 38,596 | +1,523 | NEW |
-| 4 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 2,273 | +483 | 🔥 2天 |
-| 5 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 97,148 | +152 | 🔥 2天 |
-| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 37,025 | +733 | 🔥 2天 |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 29,400 | +1,574 | 🔥 2天 |
-| 8 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 19,136 | +394 | 🔥 2天 |
-| 9 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Swift | 8,393 | +25 | 🔥 2天 |
-| 10 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Unknown | 21,126 | +429 | 🔥 2天 |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 8,370 | +51 | NEW |
+| 2 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 4,184 | +215 | NEW |
+| 3 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 19,174 | +897 | 🔥 3天 |
+| 4 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 8,206 | +662 | NEW |
+| 5 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 2,771 | +528 | 🔥 3天 |
+| 6 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 10,252 | +636 | NEW |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 140,447 | +1,926 | NEW |
+| 8 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 3,885 | +67 | NEW |
+| 9 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 24,987 | +1,195 | 🔥 3天 |
+| 10 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 50,428 | +123 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-07.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-08.pdf)
 
 ## 历史报告
 
