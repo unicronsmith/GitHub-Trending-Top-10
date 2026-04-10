@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-09）
+## 今日榜单（2026-04-10）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 41,012 | +5,794 | NEW |
-| 2 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,703 | +702 | 🔥 2天 |
-| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 14,013 | +1,306 | NEW |
-| 4 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 7,260 | +460 | NEW |
-| 5 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 13,028 | +1,012 | NEW |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 142,716 | +2,028 | 🔥 2天 |
-| 7 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 4,905 | +649 | 🔥 2天 |
-| 8 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 14,028 | +138 | NEW |
-| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 11,854 | +223 | NEW |
-| 10 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 6,495 | +174 | NEW |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 97,672 | +2,353 | NEW |
+| 2 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 14,697 | +185 | 🔥 2天 |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 48,694 | +6,485 | 🔥 2天 |
+| 4 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 11,360 | +1,187 | NEW |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 4,981 | +1,680 | NEW |
+| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 11,168 | +1,364 | 🔥 3天 |
+| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 12,453 | +245 | 🔥 2天 |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 15,498 | +1,310 | 🔥 2天 |
+| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 14,355 | +1,124 | 🔥 2天 |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 144,795 | +2,299 | 🔥 3天 |
 
-📄 [查看完整 PDF 报告](reports/2026-04-09.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-10.pdf)
 
 ## 历史报告
 
