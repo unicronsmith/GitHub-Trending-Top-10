@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-11）
+## 今日榜单（2026-04-12）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 100,806 | +2,352 | 🔥 2天 |
-| 2 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 16,094 | +756 | 🔥 3天 |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 54,994 | +7,671 | 🔥 3天 |
-| 4 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 11,950 | +507 | 🔥 2天 |
-| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 6,910 | +1,506 | 🔥 2天 |
-| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 12,201 | +1,450 | 🔥 4天 |
-| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 12,917 | +601 | 🔥 3天 |
-| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 16,307 | +1,424 | 🔥 3天 |
-| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 15,109 | +1,306 | 🔥 3天 |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 146,368 | +2,150 | 🔥 4天 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 62,321 | +6,438 | 🔥 4天 |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 103,276 | +3,086 | 🔥 3天 |
+| 3 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 16,692 | +1,346 | 🔥 4天 |
+| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 14,385 | +1,066 | 🔥 5天 |
+| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 8,580 | +1,948 | 🔥 3天 |
+| 6 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 37,820 | +1,475 | NEW |
+| 7 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 68,001 | +361 | NEW |
+| 8 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 10,458 | +1,084 | NEW |
+| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 14,900 | +595 | 🔥 4天 |
+| 10 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 15,839 | +775 | 🔥 4天 |
 
-📄 [查看完整 PDF 报告](reports/2026-04-11.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-12.pdf)
 
 ## 历史报告
 
