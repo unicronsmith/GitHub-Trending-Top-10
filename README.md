@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-16）
+## 今日榜单（2026-04-17）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 46,491 | +9,646 | 🔥 9天 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 58,600 | +2,305 | 🔥 4天 |
-| 3 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 2,368 | +446 | NEW |
-| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 18,665 | +1,062 | 🔥 3天 |
-| 5 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 2,927 | +915 | 🔥 2天 |
-| 6 | [google/magika](https://github.com/google/magika) | Python | 14,150 | +768 | NEW |
-| 7 | [steipete/wacli](https://github.com/steipete/wacli) | Go | 1,492 | +354 | NEW |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 15,564 | +156 | NEW |
-| 9 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 1,427 | +183 | NEW |
-| 10 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 30,275 | +941 | 🔥 2天 |
+| 1 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 3,511 | +812 | NEW |
+| 2 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 3,199 | +872 | 🔥 2天 |
+| 3 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 2,506 | +375 | NEW |
+| 4 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 9,463 | +378 | NEW |
+| 5 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 31,217 | +1,385 | 🔥 3天 |
+| 6 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 11,395 | +1,107 | NEW |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 19,477 | +880 | 🔥 4天 |
+| 8 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 4,174 | +107 | NEW |
+| 9 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | 1,102 | +167 | NEW |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 157,028 | +2,058 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-16.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-17.pdf)
 
 ## 历史报告
 
