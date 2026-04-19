@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-18）
+## 今日榜单（2026-04-19）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 4,685 | +737 | 🔥 2天 |
-| 2 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 3,996 | +845 | 🔥 3天 |
-| 3 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 2,917 | +538 | 🔥 2天 |
-| 4 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 10,054 | +824 | 🔥 2天 |
-| 5 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 31,781 | +944 | 🔥 4天 |
-| 6 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 12,177 | +311 | 🔥 2天 |
-| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 20,141 | +797 | 🔥 5天 |
-| 8 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 4,355 | +110 | 🔥 2天 |
-| 9 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Python | 1,639 | +184 | 🔥 2天 |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 158,293 | +1,713 | 🔥 2天 |
+| 1 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 1,841 | +447 | NEW |
+| 2 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 10,715 | +609 | 🔥 3天 |
+| 3 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 22,717 | +470 | NEW |
+| 4 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 5,217 | +1,131 | 🔥 3天 |
+| 5 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 6,614 | +31 | NEW |
+| 6 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 32,262 | +547 | 🔥 5天 |
+| 7 | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Shell | 3,535 | +44 | NEW |
+| 8 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | Rust | 112,252 | +393 | NEW |
+| 9 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 3,363 | +403 | 🔥 3天 |
+| 10 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 834 | +135 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-18.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-19.pdf)
 
 ## 历史报告
 
