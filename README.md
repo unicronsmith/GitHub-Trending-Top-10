@@ -9,20 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-21）
+## 今日榜单（2026-04-22）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 10,735 | +3,109 | 🔥 2天 |
-| 2 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 3,090 | +675 | 🔥 3天 |
-| 3 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 6,141 | +74 | NEW |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 48,608 | +713 | 🔥 2天 |
-| 5 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 57,171 | +131 | NEW |
-| 6 | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | Logos | 4,683 | +43 | NEW |
-| 7 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 16,475 | +245 | NEW |
-| 8 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | 53,202 | +604 | NEW |
+| 1 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 7,018 | +169 | 🔥 2天 |
+| 2 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 12,484 | +2,548 | 🔥 3天 |
+| 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 51,014 | +1,187 | NEW |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript | 25,345 | +67 | NEW |
+| 5 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 39,212 | +346 | NEW |
+| 6 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 11,847 | +609 | NEW |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 49,147 | +824 | 🔥 3天 |
+| 8 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 17,252 | +162 | 🔥 2天 |
+| 9 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | 54,142 | +534 | 🔥 2天 |
+| 10 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 5,127 | +237 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-21.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-22.pdf)
 
 ## 历史报告
 
