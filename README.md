@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-22）
+## 今日榜单（2026-04-23）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 7,018 | +169 | 🔥 2天 |
-| 2 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 12,484 | +2,548 | 🔥 3天 |
-| 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 51,014 | +1,187 | NEW |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript | 25,345 | +67 | NEW |
-| 5 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 39,212 | +346 | NEW |
-| 6 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 11,847 | +609 | NEW |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 49,147 | +824 | 🔥 3天 |
-| 8 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 17,252 | +162 | 🔥 2天 |
-| 9 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | 54,142 | +534 | 🔥 2天 |
-| 10 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 5,127 | +237 | NEW |
+| 1 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 1,483 | +530 | NEW |
+| 2 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 8,034 | +1,023 | 🔥 3天 |
+| 3 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 17,828 | +574 | 🔥 3天 |
+| 4 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 60,327 | +518 | NEW |
+| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 49,549 | +427 | 🔥 4天 |
+| 6 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 6,501 | +677 | NEW |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 3,899 | +181 | NEW |
+| 8 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 12,613 | +521 | 🔥 2天 |
+| 9 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 58,451 | +177 | NEW |
+| 10 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 52,642 | +70 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-22.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-23.pdf)
 
 ## 历史报告
 
