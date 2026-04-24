@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-23）
+## 今日榜单（2026-04-24）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 1,483 | +530 | NEW |
-| 2 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 8,034 | +1,023 | 🔥 3天 |
-| 3 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 17,828 | +574 | 🔥 3天 |
-| 4 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 60,327 | +518 | NEW |
-| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 49,549 | +427 | 🔥 4天 |
-| 6 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 6,501 | +677 | NEW |
-| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 3,899 | +181 | NEW |
-| 8 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 12,613 | +521 | 🔥 2天 |
-| 9 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | 58,451 | +177 | NEW |
-| 10 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 52,642 | +70 | NEW |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 6,363 | +1,962 | 🔥 2天 |
+| 2 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 4,593 | +720 | 🔥 2天 |
+| 3 | [google/osv-scanner](https://github.com/google/osv-scanner) | Go | 9,209 | +350 | NEW |
+| 4 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 61,682 | +1,383 | 🔥 2天 |
+| 5 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 8,744 | +1,011 | 🔥 4天 |
+| 6 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 13,139 | +776 | 🔥 3天 |
+| 7 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 32,826 | +74 | NEW |
+| 8 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | 59,020 | +252 | NEW |
+| 9 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 493,990 | +817 | NEW |
+| 10 | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | Cuda | 9,209 | +29 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-23.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-24.pdf)
 
 ## 历史报告
 
