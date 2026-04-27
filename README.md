@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-26）
+## 今日榜单（2026-04-27）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 12,115 | +4,007 | 🔥 4天 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 21,057 | +1,139 | NEW |
-| 3 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 64,518 | +1,200 | 🔥 4天 |
-| 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 33,634 | +471 | 🔥 3天 |
-| 5 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 25,481 | +87 | NEW |
-| 6 | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | Cuda | 9,549 | +189 | NEW |
-| 7 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 53,152 | +48 | NEW |
-| 8 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | TypeScript | 23,619 | +57 | NEW |
-| 9 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 6,520 | +1,240 | 🔥 4天 |
-| 10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 496,353 | +1,432 | 🔥 3天 |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 26,618 | +2,519 | 🔥 2天 |
+| 2 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 30,687 | +700 | NEW |
+| 3 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 2,351 | +517 | NEW |
+| 4 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 15,130 | +1,701 | 🔥 5天 |
+| 5 | [gastownhall/beads](https://github.com/gastownhall/beads) | Go | 21,921 | +152 | NEW |
+| 6 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 46,292 | +283 | NEW |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 25,623 | +284 | 🔥 2天 |
+| 8 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 42,239 | +771 | NEW |
+| 9 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 66,369 | +1,720 | 🔥 5天 |
+| 10 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 53,297 | +183 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-26.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-27.pdf)
 
 ## 历史报告
 
