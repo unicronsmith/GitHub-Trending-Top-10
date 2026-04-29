@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-28）
+## 今日榜单（2026-04-29）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 33,934 | +5,645 | 🔥 3天 |
-| 2 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 32,265 | +1,102 | 🔥 2天 |
-| 3 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 3,300 | +638 | 🔥 2天 |
-| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 43,703 | +757 | 🔥 2天 |
-| 5 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 25,963 | +154 | 🔥 3天 |
-| 6 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 10,073 | +348 | NEW |
-| 7 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | 1,363 | +200 | NEW |
-| 8 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 427,475 | +600 | NEW |
-| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | 2,104 | +138 | NEW |
-| 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 16,866 | +2,949 | 🔥 6天 |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 38,686 | +11,955 | NEW |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 41,173 | +7,321 | 🔥 4天 |
+| 3 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 11,080 | +967 | 🔥 2天 |
+| 4 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 4,463 | +953 | 🔥 3天 |
+| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 1,005 | +386 | NEW |
+| 6 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 33,017 | +1,607 | 🔥 3天 |
+| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 45,365 | +1,483 | 🔥 3天 |
+| 8 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | 2,556 | +417 | 🔥 2天 |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 172,396 | +1,683 | NEW |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 32,373 | +278 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-28.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-29.pdf)
 
 ## 历史报告
 
