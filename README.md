@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-29）
+## 今日榜单（2026-04-30）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 38,686 | +11,955 | NEW |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 41,173 | +7,321 | 🔥 4天 |
-| 3 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 11,080 | +967 | 🔥 2天 |
-| 4 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 4,463 | +953 | 🔥 3天 |
-| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 1,005 | +386 | NEW |
-| 6 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 33,017 | +1,607 | 🔥 3天 |
-| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 45,365 | +1,483 | 🔥 3天 |
-| 8 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | 2,556 | +417 | 🔥 2天 |
-| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 172,396 | +1,683 | NEW |
-| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 32,373 | +278 | NEW |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 47,160 | +12,822 | 🔥 2天 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 56,507 | +386 | NEW |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 47,351 | +7,280 | 🔥 5天 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 173,983 | +1,653 | 🔥 2天 |
+| 5 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 5,470 | +393 | NEW |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 429,024 | +307 | NEW |
+| 7 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 1,675 | +411 | 🔥 2天 |
+| 8 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 20,541 | +79 | NEW |
+| 9 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 11,920 | +1,033 | 🔥 3天 |
+| 10 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | Kotlin | 12,692 | +799 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-29.pdf)
+📄 [查看完整 PDF 报告](reports/2026-04-30.pdf)
 
 ## 历史报告
 
