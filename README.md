@@ -9,22 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-04-30）
+## 今日榜单（2026-05-01）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 47,160 | +12,822 | 🔥 2天 |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 56,507 | +386 | NEW |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 47,351 | +7,280 | 🔥 5天 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 173,983 | +1,653 | 🔥 2天 |
-| 5 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 5,470 | +393 | NEW |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 429,024 | +307 | NEW |
-| 7 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 1,675 | +411 | 🔥 2天 |
-| 8 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 20,541 | +79 | NEW |
-| 9 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 11,920 | +1,033 | 🔥 3天 |
-| 10 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | Kotlin | 12,692 | +799 | NEW |
+| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 58,545 | +2,023 | 🔥 2天 |
+| 2 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 21,054 | +730 | 🔥 2天 |
+| 3 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 50,529 | +8,399 | 🔥 3天 |
+| 4 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 2,064 | +675 | 🔥 3天 |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 50,896 | +6,187 | 🔥 6天 |
+| 6 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 977 | +69 | NEW |
+| 7 | [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 27,988 | +38 | NEW |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 175,055 | +1,632 | 🔥 3天 |
+| 9 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 26,847 | +165 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-04-30.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-01.pdf)
 
 ## 历史报告
 
