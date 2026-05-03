@@ -9,21 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-02）
+## 今日榜单（2026-05-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 60,656 | +2,112 | 🔥 3天 |
-| 2 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 22,075 | +535 | 🔥 3天 |
-| 3 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 52,130 | +3,401 | 🔥 4天 |
-| 4 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 2,536 | +403 | 🔥 4天 |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 53,701 | +3,645 | 🔥 7天 |
-| 6 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 1,314 | +334 | 🔥 2天 |
-| 7 | [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 28,270 | +56 | 🔥 2天 |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 176,084 | +1,096 | 🔥 4天 |
-| 9 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 27,022 | +145 | 🔥 2天 |
+| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 37,386 | +1,299 | NEW |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 63,974 | +2,225 | 🔥 4天 |
+| 3 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 23,166 | +1,064 | 🔥 4天 |
+| 4 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 1,771 | +564 | NEW |
+| 5 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 9,366 | +478 | NEW |
+| 6 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 1,643 | +346 | 🔥 3天 |
+| 7 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 19,230 | +264 | NEW |
+| 8 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 3,097 | +482 | 🔥 5天 |
+| 9 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | C | 26,489 | +14 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-03.pdf)
 
 ## 历史报告
 
