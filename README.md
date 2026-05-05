@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-04）
+## 今日榜单（2026-05-05）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 40,088 | +1,840 | 🔥 2天 |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 66,202 | +3,313 | 🔥 5天 |
-| 3 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 1,965 | +322 | 🔥 4天 |
-| 4 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 3,046 | +343 | 🔥 2天 |
-| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 24,333 | +1,119 | 🔥 5天 |
-| 6 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | C++ | 36,901 | +68 | NEW |
-| 7 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 19,730 | +282 | 🔥 2天 |
-| 8 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 3,662 | +591 | 🔥 6天 |
-| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 91,943 | +828 | NEW |
-| 10 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 22,810 | +418 | NEW |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 5,267 | +1,274 | 🔥 3天 |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 42,432 | +2,598 | 🔥 3天 |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 23,439 | +409 | 🔥 2天 |
+| 4 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 13,589 | +535 | NEW |
+| 5 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | 7,573 | +665 | NEW |
+| 6 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 12,678 | +306 | NEW |
+| 7 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | 8,180 | +166 | NEW |
+| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 93,114 | +1,189 | 🔥 2天 |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | Unknown | 345,474 | +497 | NEW |
+| 10 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | Python | 10,853 | +170 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-04.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-05.pdf)
 
 ## 历史报告
 
