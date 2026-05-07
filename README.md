@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-06）
+## 今日榜单（2026-05-07）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 11,450 | +2,434 | 🔥 4天 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 29,089 | +629 | NEW |
-| 3 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | 6,470 | +57 | NEW |
-| 4 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 14,371 | +927 | 🔥 2天 |
-| 5 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 5,412 | +197 | NEW |
-| 6 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 62,824 | +87 | NEW |
-| 7 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 8,229 | +213 | NEW |
-| 8 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 24,116 | +659 | 🔥 3天 |
-| 9 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 8,507 | +540 | NEW |
-| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 44,657 | +2,432 | 🔥 4天 |
+| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 9,787 | +641 | 🔥 2天 |
+| 2 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 17,217 | +6,175 | 🔥 5天 |
+| 3 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 3,250 | +654 | NEW |
+| 4 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 8,674 | +230 | 🔥 2天 |
+| 5 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 5,962 | +532 | 🔥 2天 |
+| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 32,158 | +800 | 🔥 2天 |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 29,172 | +953 | NEW |
+| 8 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 4,881 | +406 | NEW |
+| 9 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 15,264 | +774 | 🔥 3天 |
+| 10 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | 4,086 | +130 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-06.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-07.pdf)
 
 ## 历史报告
 
