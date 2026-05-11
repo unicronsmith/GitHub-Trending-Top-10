@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-10）
+## 今日榜单（2026-05-11）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 31,695 | +656 | 🔥 2天 |
-| 2 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 18,008 | +1,479 | 🔥 5天 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 37,838 | +1,092 | NEW |
-| 4 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 4,102 | +1,167 | NEW |
-| 5 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 15,138 | +646 | NEW |
-| 6 | [jundot/omlx](https://github.com/jundot/omlx) | Python | 13,065 | +187 | NEW |
-| 7 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 8,802 | +642 | 🔥 2天 |
-| 8 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 6,524 | +604 | 🔥 2天 |
-| 9 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 2,756 | +694 | 🔥 2天 |
-| 10 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 10,365 | +538 | NEW |
+| 1 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 32,693 | +956 | 🔥 3天 |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 5,498 | +1,325 | 🔥 2天 |
+| 3 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 10,263 | +397 | NEW |
+| 4 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 7,075 | +533 | 🔥 3天 |
+| 5 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 9,634 | +808 | 🔥 3天 |
+| 6 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | 7,841 | +942 | NEW |
+| 7 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 978 | +154 | NEW |
+| 8 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 7,660 | +312 | NEW |
+| 9 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 37,141 | +373 | NEW |
+| 10 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Python | 162,823 | +29 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-10.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-11.pdf)
 
 ## 历史报告
 
