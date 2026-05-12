@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-11）
+## 今日榜单（2026-05-12）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 32,693 | +956 | 🔥 3天 |
-| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 5,498 | +1,325 | 🔥 2天 |
-| 3 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 10,263 | +397 | NEW |
-| 4 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 7,075 | +533 | 🔥 3天 |
-| 5 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 9,634 | +808 | 🔥 3天 |
-| 6 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | 7,841 | +942 | NEW |
-| 7 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 978 | +154 | NEW |
-| 8 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 7,660 | +312 | NEW |
-| 9 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 37,141 | +373 | NEW |
-| 10 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Python | 162,823 | +29 | NEW |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,978 | +366 | 🔥 2天 |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 5,252 | +430 | NEW |
+| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 7,037 | +1,320 | 🔥 3天 |
+| 4 | [apernet/hysteria](https://github.com/apernet/hysteria) | Go | 19,991 | +28 | NEW |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 74,472 | +3,886 | NEW |
+| 6 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | 2,055 | +111 | NEW |
+| 7 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 8,436 | +212 | 🔥 2天 |
+| 8 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | 93,375 | +337 | NEW |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 47,925 | +1,248 | NEW |
+| 10 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 11,497 | +427 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-11.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-12.pdf)
 
 ## 历史报告
 
