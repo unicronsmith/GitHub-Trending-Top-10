@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-12）
+## 今日榜单（2026-05-13）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,978 | +366 | 🔥 2天 |
-| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 5,252 | +430 | NEW |
-| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 7,037 | +1,320 | 🔥 3天 |
-| 4 | [apernet/hysteria](https://github.com/apernet/hysteria) | Go | 19,991 | +28 | NEW |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 74,472 | +3,886 | NEW |
-| 6 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | 2,055 | +111 | NEW |
-| 7 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 8,436 | +212 | 🔥 2天 |
-| 8 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | 93,375 | +337 | NEW |
-| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 47,925 | +1,248 | NEW |
-| 10 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 11,497 | +427 | 🔥 2天 |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,719 | +1,595 | 🔥 3天 |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 6,648 | +1,335 | 🔥 2天 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 188,826 | +1,419 | NEW |
+| 4 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 12,480 | +987 | 🔥 3天 |
+| 5 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 16,895 | +6 | NEW |
+| 6 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 9,031 | +620 | 🔥 3天 |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 20,843 | +83 | NEW |
+| 8 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 13,061 | +620 | NEW |
+| 9 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 3,801 | +53 | NEW |
+| 10 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 8,886 | +1,829 | 🔥 4天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-12.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-13.pdf)
 
 ## 历史报告
 
