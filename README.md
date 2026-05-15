@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-14）
+## 今日榜单（2026-05-15）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 55,006 | +1,757 | NEW |
-| 2 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 7,104 | +3,476 | 🔥 4天 |
-| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 8,562 | +1,978 | 🔥 3天 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 190,526 | +1,801 | 🔥 2天 |
-| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 21,465 | +637 | 🔥 2天 |
-| 6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 24,577 | +359 | NEW |
-| 7 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 38,705 | +59 | NEW |
-| 8 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 17,097 | +211 | 🔥 2天 |
-| 9 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 4,938 | +1,163 | 🔥 2天 |
-| 10 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | C | 140,997 | +589 | NEW |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 8,393 | +3,329 | 🔥 5天 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 192,147 | +1,780 | 🔥 3天 |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 22,109 | +654 | 🔥 3天 |
+| 4 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 5,643 | +1,128 | 🔥 3天 |
+| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 56,871 | +1,715 | 🔥 2天 |
+| 6 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 17,309 | +215 | 🔥 3天 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 134,627 | +625 | NEW |
+| 8 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 20,751 | +68 | NEW |
+| 9 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Python | 990 | +62 | NEW |
+| 10 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 90,437 | +289 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-14.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-15.pdf)
 
 ## 历史报告
 
