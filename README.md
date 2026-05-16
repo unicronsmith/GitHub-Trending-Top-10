@@ -9,22 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-15）
+## 今日榜单（2026-05-16）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 8,393 | +3,329 | 🔥 5天 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 192,147 | +1,780 | 🔥 3天 |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 22,109 | +654 | 🔥 3天 |
-| 4 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 5,643 | +1,128 | 🔥 3天 |
-| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 56,871 | +1,715 | 🔥 2天 |
-| 6 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 17,309 | +215 | 🔥 3天 |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 134,627 | +625 | NEW |
-| 8 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 20,751 | +68 | NEW |
-| 9 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Python | 990 | +62 | NEW |
-| 10 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 90,437 | +289 | NEW |
+| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 90,721 | +448 | 🔥 2天 |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 22,743 | +646 | 🔥 4天 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 193,366 | +1,648 | 🔥 4天 |
+| 4 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 14,032 | +356 | NEW |
+| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 6,346 | +719 | 🔥 4天 |
+| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 9,813 | +1,271 | 🔥 6天 |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 57,833 | +1,859 | 🔥 3天 |
+| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | 16,493 | +484 | NEW |
+| 9 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,063 | +397 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-15.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-16.pdf)
 
 ## 历史报告
 
