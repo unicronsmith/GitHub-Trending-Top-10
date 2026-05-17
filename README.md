@@ -9,21 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-16）
+## 今日榜单（2026-05-17）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 90,721 | +448 | 🔥 2天 |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 22,743 | +646 | 🔥 4天 |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 193,366 | +1,648 | 🔥 4天 |
-| 4 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 14,032 | +356 | NEW |
-| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 6,346 | +719 | 🔥 4天 |
-| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 9,813 | +1,271 | 🔥 6天 |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 57,833 | +1,859 | 🔥 3天 |
-| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | 16,493 | +484 | NEW |
-| 9 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,063 | +397 | NEW |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 11,461 | +1,549 | 🔥 7天 |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 35,198 | +333 | NEW |
+| 3 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | 42,973 | +425 | NEW |
+| 4 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 91,577 | +397 | 🔥 3天 |
+| 5 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 14,744 | +317 | 🔥 2天 |
+| 6 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 6,675 | +165 | NEW |
+| 7 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 2,560 | +44 | NEW |
+| 8 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | 19,703 | +225 | NEW |
+| 9 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | Python | 1,392 | +287 | NEW |
+| 10 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 23,506 | +673 | 🔥 5天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-16.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-17.pdf)
 
 ## 历史报告
 
