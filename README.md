@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-17）
+## 今日榜单（2026-05-18）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 11,461 | +1,549 | 🔥 7天 |
-| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 35,198 | +333 | NEW |
-| 3 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | 42,973 | +425 | NEW |
-| 4 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 91,577 | +397 | 🔥 3天 |
-| 5 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 14,744 | +317 | 🔥 2天 |
-| 6 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 6,675 | +165 | NEW |
-| 7 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 2,560 | +44 | NEW |
-| 8 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | 19,703 | +225 | NEW |
-| 9 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | Python | 1,392 | +287 | NEW |
-| 10 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 23,506 | +673 | 🔥 5天 |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 15,688 | +3,945 | 🔥 8天 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 10,448 | +1,302 | NEW |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 36,303 | +1,047 | 🔥 2天 |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 24,158 | +610 | 🔥 6天 |
+| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 8,010 | +827 | NEW |
+| 6 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 110,770 | +179 | NEW |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 59,554 | +963 | NEW |
+| 8 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 14,586 | +1,391 | NEW |
+| 9 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 3,826 | +1,244 | 🔥 2天 |
+| 10 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 7,492 | +768 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-17.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-18.pdf)
 
 ## 历史报告
 
