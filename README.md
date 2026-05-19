@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-18）
+## 今日榜单（2026-05-19）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 15,688 | +3,945 | 🔥 8天 |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 10,448 | +1,302 | NEW |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 36,303 | +1,047 | 🔥 2天 |
-| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 24,158 | +610 | 🔥 6天 |
-| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 8,010 | +827 | NEW |
-| 6 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 110,770 | +179 | NEW |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 59,554 | +963 | NEW |
-| 8 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 14,586 | +1,391 | NEW |
-| 9 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 3,826 | +1,244 | 🔥 2天 |
-| 10 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 7,492 | +768 | 🔥 2天 |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 19,527 | +3,991 | 🔥 9天 |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 37,317 | +1,027 | 🔥 3天 |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 13,509 | +3,184 | 🔥 2天 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 197,738 | +1,620 | NEW |
+| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 19,829 | +127 | NEW |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 13,606 | +1,244 | NEW |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 16,018 | +1,466 | 🔥 2天 |
+| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Rust | 50,387 | +667 | NEW |
+| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 100,704 | +983 | NEW |
+| 10 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 5,772 | +952 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-18.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-19.pdf)
 
 ## 历史报告
 
