@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-19）
+## 今日榜单（2026-05-20）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 19,527 | +3,991 | 🔥 9天 |
-| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 37,317 | +1,027 | 🔥 3天 |
-| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 13,509 | +3,184 | 🔥 2天 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 197,738 | +1,620 | NEW |
-| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 19,829 | +127 | NEW |
-| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 13,606 | +1,244 | NEW |
-| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 16,018 | +1,466 | 🔥 2天 |
-| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Rust | 50,387 | +667 | NEW |
-| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 100,704 | +983 | NEW |
-| 10 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 5,772 | +952 | NEW |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 7,695 | +1,910 | 🔥 2天 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 15,127 | +1,639 | 🔥 3天 |
+| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 23,029 | +3,603 | 🔥 10天 |
+| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 139,694 | +2,620 | NEW |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 8,980 | +762 | NEW |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 38,222 | +930 | 🔥 4天 |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | 5,191 | +237 | NEW |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 199,461 | +1,776 | 🔥 2天 |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 20,520 | +706 | 🔥 2天 |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 102,349 | +1,714 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-19.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-20.pdf)
 
 ## 历史报告
 
