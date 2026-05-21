@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-20）
+## 今日榜单（2026-05-21）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 7,695 | +1,910 | 🔥 2天 |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 15,127 | +1,639 | 🔥 3天 |
-| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 23,029 | +3,603 | 🔥 10天 |
-| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 139,694 | +2,620 | NEW |
-| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 8,980 | +762 | NEW |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 38,222 | +930 | 🔥 4天 |
-| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | 5,191 | +237 | NEW |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 199,461 | +1,776 | 🔥 2天 |
-| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 20,520 | +706 | 🔥 2天 |
-| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 102,349 | +1,714 | 🔥 2天 |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 21,236 | +674 | 🔥 3天 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 11,961 | +2,123 | 🔥 3天 |
+| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 142,278 | +2,679 | 🔥 2天 |
+| 4 | [dotnet/skills](https://github.com/dotnet/skills) | C# | 2,016 | +96 | NEW |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 200,989 | +1,743 | 🔥 3天 |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 38,867 | +890 | 🔥 5天 |
+| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 5,155 | +741 | NEW |
+| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 40,278 | +132 | NEW |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 10,303 | +765 | 🔥 2天 |
+| 10 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | 14,210 | +182 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-20.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-21.pdf)
 
 ## 历史报告
 
