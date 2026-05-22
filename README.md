@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-21）
+## 今日榜单（2026-05-22）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 21,236 | +674 | 🔥 3天 |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 11,961 | +2,123 | 🔥 3天 |
-| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 142,278 | +2,679 | 🔥 2天 |
-| 4 | [dotnet/skills](https://github.com/dotnet/skills) | C# | 2,016 | +96 | NEW |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 200,989 | +1,743 | 🔥 3天 |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 38,867 | +890 | 🔥 5天 |
-| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 5,155 | +741 | NEW |
-| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 40,278 | +132 | NEW |
-| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 10,303 | +765 | 🔥 2天 |
-| 10 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Python | 14,210 | +182 | NEW |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 23,703 | +682 | 🔥 4天 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 15,539 | +4,294 | 🔥 4天 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 63,484 | +1,269 | NEW |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 11,260 | +1,333 | 🔥 3天 |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 40,756 | +151 | 🔥 2天 |
+| 6 | [dotnet/skills](https://github.com/dotnet/skills) | C# | 2,391 | +129 | 🔥 2天 |
+| 7 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 17,387 | +666 | NEW |
+| 8 | [odoo/odoo](https://github.com/odoo/odoo) | Python | 50,918 | +48 | NEW |
+| 9 | [byJoey/cfnew](https://github.com/byJoey/cfnew) | Unknown | 13,213 | +85 | NEW |
+| 10 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Unknown | 222,893 | +756 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-21.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-22.pdf)
 
 ## 历史报告
 
