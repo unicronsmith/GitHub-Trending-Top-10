@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-23）
+## 今日榜单（2026-05-24）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 19,495 | +1,393 | 🔥 2天 |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 25,795 | +2,549 | 🔥 5天 |
-| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 17,805 | +3,684 | 🔥 5天 |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 12,688 | +988 | 🔥 4天 |
-| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 22,853 | +367 | NEW |
-| 6 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 148,206 | +3,152 | NEW |
-| 7 | [dotnet/skills](https://github.com/dotnet/skills) | C# | 2,650 | +389 | 🔥 3天 |
-| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 41,157 | +501 | 🔥 3天 |
-| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 6,861 | +238 | NEW |
-| 10 | [presenton/presenton](https://github.com/presenton/presenton) | JavaScript | 6,007 | +302 | NEW |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 23,423 | +2,299 | 🔥 3天 |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 14,462 | +1,521 | 🔥 5天 |
+| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 26,985 | +2,193 | 🔥 6天 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 13,067 | +486 | NEW |
+| 5 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 150,705 | +3,507 | 🔥 2天 |
+| 6 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 53,571 | +444 | NEW |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 28,815 | +565 | NEW |
+| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 20,801 | +2,456 | 🔥 6天 |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 32,175 | +410 | NEW |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 25,671 | +96 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-23.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-24.pdf)
 
 ## 历史报告
 
