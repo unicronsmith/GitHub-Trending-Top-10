@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-27）
+## 今日榜单（2026-05-28）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 38,352 | +4,466 | 🔥 6天 |
-| 2 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 5,376 | +664 | 🔥 2天 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 195,461 | +2,062 | 🔥 3天 |
-| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 17,002 | +695 | 🔥 4天 |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 23,286 | +2,715 | 🔥 2天 |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 21,827 | +314 | NEW |
-| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 26,706 | +425 | NEW |
-| 8 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 10,588 | +885 | 🔥 3天 |
-| 9 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 47,110 | +520 | NEW |
-| 10 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 35,032 | +137 | NEW |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 65,191 | +1,742 | NEW |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 196,815 | +1,388 | 🔥 4天 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 25,579 | +2,235 | 🔥 3天 |
+| 4 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 6,146 | +755 | 🔥 3天 |
+| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 47,621 | +495 | 🔥 2天 |
+| 6 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 170,161 | +1,769 | NEW |
+| 7 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 47,915 | +2,015 | NEW |
+| 8 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 126,933 | +1,263 | NEW |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 210,627 | +1,726 | NEW |
+| 10 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 3,720 | +68 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-27.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-28.pdf)
 
 ## 历史报告
 
