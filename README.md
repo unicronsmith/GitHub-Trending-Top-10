@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-28）
+## 今日榜单（2026-05-29）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 65,191 | +1,742 | NEW |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 196,815 | +1,388 | 🔥 4天 |
-| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 25,579 | +2,235 | 🔥 3天 |
-| 4 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 6,146 | +755 | 🔥 3天 |
-| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 47,621 | +495 | 🔥 2天 |
-| 6 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 170,161 | +1,769 | NEW |
-| 7 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 47,915 | +2,015 | NEW |
-| 8 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 126,933 | +1,263 | NEW |
-| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 210,627 | +1,726 | NEW |
-| 10 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 3,720 | +68 | NEW |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 68,492 | +3,563 | 🔥 2天 |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 128,678 | +1,876 | 🔥 2天 |
+| 3 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 17,959 | +354 | NEW |
+| 4 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 48,154 | +575 | 🔥 3天 |
+| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 127,609 | +319 | NEW |
+| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 27,495 | +2,066 | 🔥 4天 |
+| 7 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 1,169 | +129 | NEW |
+| 8 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | 6,745 | +932 | NEW |
+| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | 1,053 | +346 | NEW |
+| 10 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 49,311 | +1,564 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-05-28.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-29.pdf)
 
 ## 历史报告
 
