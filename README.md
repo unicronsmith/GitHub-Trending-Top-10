@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-05-30）
+## 今日榜单（2026-05-31）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 71,015 | +3,567 | 🔥 3天 |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 130,958 | +1,873 | 🔥 3天 |
-| 3 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 18,285 | +353 | 🔥 2天 |
-| 4 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 48,597 | +578 | 🔥 4天 |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 128,132 | +395 | 🔥 2天 |
-| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 28,703 | +2,062 | 🔥 5天 |
-| 7 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 1,362 | +134 | 🔥 2天 |
-| 8 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | 7,615 | +701 | 🔥 2天 |
-| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | 1,346 | +362 | 🔥 2天 |
-| 10 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 49,927 | +1,566 | 🔥 3天 |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 133,679 | +2,470 | 🔥 4天 |
+| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 72,945 | +2,768 | 🔥 4天 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 128,611 | +592 | 🔥 3天 |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 1,558 | +205 | 🔥 3天 |
+| 5 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 4,411 | +55 | NEW |
+| 6 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 18,528 | +349 | 🔥 3天 |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 199,742 | +908 | NEW |
+| 8 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 23,083 | +779 | NEW |
+| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | 1,530 | +318 | 🔥 3天 |
+| 10 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 27,501 | +469 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-05-30.pdf)
+📄 [查看完整 PDF 报告](reports/2026-05-31.pdf)
 
 ## 历史报告
 
