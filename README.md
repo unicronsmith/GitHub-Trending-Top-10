@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-02）
+## 今日榜单（2026-06-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 5,044 | +1,266 | NEW |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 140,487 | +3,616 | 🔥 6天 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 202,993 | +1,842 | NEW |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 58,780 | +1,196 | 🔥 2天 |
-| 5 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 12,264 | +1,725 | 🔥 2天 |
-| 6 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | 4,301 | +319 | NEW |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 24,814 | +779 | NEW |
-| 8 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | 18,194 | +570 | NEW |
-| 9 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 6,240 | +31 | NEW |
-| 10 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 24,397 | +677 | 🔥 2天 |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 8,612 | +3,528 | 🔥 2天 |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 142,386 | +2,006 | 🔥 7天 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 205,101 | +2,147 | 🔥 2天 |
+| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 59,831 | +1,078 | 🔥 3天 |
+| 5 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 12,928 | +734 | 🔥 3天 |
+| 6 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | 4,808 | +509 | 🔥 2天 |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 25,491 | +713 | 🔥 2天 |
+| 8 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | 18,897 | +716 | 🔥 2天 |
+| 9 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 6,614 | +372 | 🔥 2天 |
+| 10 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 24,983 | +601 | 🔥 3天 |
 
-📄 [查看完整 PDF 报告](reports/2026-06-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-03.pdf)
 
 ## 历史报告
 
