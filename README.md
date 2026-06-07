@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-06）
+## 今日榜单（2026-06-07）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 184,141 | +1,845 | 🔥 3天 |
-| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 15,095 | +2,473 | 🔥 5天 |
-| 3 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 32,936 | +366 | 🔥 2天 |
-| 4 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 26,308 | +1,152 | 🔥 3天 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 208,714 | +1,361 | 🔥 5天 |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 21,914 | +148 | 🔥 2天 |
-| 7 | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | 9,543 | +479 | 🔥 3天 |
-| 8 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 64,926 | +320 | 🔥 2天 |
-| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 28,402 | +731 | 🔥 2天 |
-| 10 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 80,717 | +747 | 🔥 3天 |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 29,463 | +439 | 🔥 3天 |
+| 2 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 33,523 | +631 | 🔥 3天 |
+| 3 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | Python | 54,536 | +446 | NEW |
+| 4 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 15,155 | +70 | NEW |
+| 5 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | 1,892 | +213 | NEW |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 22,892 | +683 | 🔥 3天 |
+| 7 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | 87,097 | +25 | NEW |
+| 8 | [nginx/nginx](https://github.com/nginx/nginx) | C | 30,750 | +20 | NEW |
+| 9 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | 36,069 | +159 | NEW |
+| 10 | [golang/go](https://github.com/golang/go) | Go | 134,579 | +30 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-06.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-07.pdf)
 
 ## 历史报告
 
