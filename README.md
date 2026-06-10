@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-09）
+## 今日榜单（2026-06-10）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 36,169 | +3,177 | 🔥 5天 |
-| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 9,759 | +1,800 | 🔥 2天 |
-| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 42,687 | +735 | NEW |
-| 4 | [opencv/opencv](https://github.com/opencv/opencv) | C++ | 88,430 | +395 | NEW |
-| 5 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14,046 | +821 | 🔥 2天 |
-| 6 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 48,318 | +490 | NEW |
-| 7 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Python | 3,806 | +631 | 🔥 2天 |
-| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 73,349 | +517 | NEW |
-| 9 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 139,010 | +66 | NEW |
-| 10 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 19,667 | +786 | NEW |
+| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 50,361 | +781 | NEW |
+| 2 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 13,993 | +775 | NEW |
+| 3 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14,650 | +618 | 🔥 3天 |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 38,661 | +2,561 | 🔥 6天 |
+| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 31,710 | +261 | NEW |
+| 6 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 139,386 | +397 | 🔥 2天 |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 223,112 | +1,011 | NEW |
+| 8 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 4,984 | +92 | NEW |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 84,446 | +1,471 | NEW |
+| 10 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 2,115 | +535 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-09.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-10.pdf)
 
 ## 历史报告
 
