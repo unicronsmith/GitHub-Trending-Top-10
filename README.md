@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-10）
+## 今日榜单（2026-06-11）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 50,361 | +781 | NEW |
-| 2 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 13,993 | +775 | NEW |
-| 3 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14,650 | +618 | 🔥 3天 |
-| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 38,661 | +2,561 | 🔥 6天 |
-| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 31,710 | +261 | NEW |
-| 6 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 139,386 | +397 | 🔥 2天 |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 223,112 | +1,011 | NEW |
-| 8 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 4,984 | +92 | NEW |
-| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 84,446 | +1,471 | NEW |
-| 10 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 2,115 | +535 | NEW |
+| 1 | [apple/container](https://github.com/apple/container) | Swift | 31,102 | +2,419 | NEW |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 53,724 | +3,275 | 🔥 2天 |
+| 3 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 2,564 | +427 | 🔥 2天 |
+| 4 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 15,945 | +1,944 | 🔥 2天 |
+| 5 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 2,346 | +308 | NEW |
+| 6 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 32,397 | +665 | 🔥 2天 |
+| 7 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 139,744 | +369 | 🔥 3天 |
+| 8 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 15,251 | +604 | 🔥 4天 |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 224,454 | +1,323 | 🔥 2天 |
+| 10 | [restic/restic](https://github.com/restic/restic) | Go | 34,037 | +33 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-10.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-11.pdf)
 
 ## 历史报告
 
