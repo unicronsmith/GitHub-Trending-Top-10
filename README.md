@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-17）
+## 今日榜单（2026-06-18）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 4,340 | +367 | NEW |
-| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 9,496 | +422 | NEW |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 32,712 | +2,025 | NEW |
-| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 10,948 | +199 | 🔥 4天 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 230,582 | +1,109 | NEW |
-| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 21,553 | +84 | NEW |
-| 7 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | 45,507 | +15 | NEW |
-| 8 | [continuedev/continue](https://github.com/continuedev/continue) | TypeScript | 33,779 | +38 | NEW |
-| 9 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 49,917 | +94 | NEW |
-| 10 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | 127,363 | +516 | NEW |
+| 1 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 22,384 | +858 | 🔥 2天 |
+| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 9,850 | +369 | 🔥 2天 |
+| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 449,355 | +417 | NEW |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 231,896 | +1,435 | 🔥 2天 |
+| 5 | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | Unknown | 3,884 | +286 | NEW |
+| 6 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 6,516 | +2,308 | 🔥 2天 |
+| 7 | [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 11,027 | +435 | NEW |
+| 8 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | 5,342 | +164 | NEW |
+| 9 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | TypeScript | 21,449 | +1,339 | NEW |
+| 10 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | 51,610 | +610 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-17.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-18.pdf)
 
 ## 历史报告
 
