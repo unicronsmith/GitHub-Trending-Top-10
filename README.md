@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-23）
+## 今日榜单（2026-06-24）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 14,093 | +3,590 | 🔥 5天 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 46,545 | +1,121 | NEW |
-| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 19,235 | +1,040 | 🔥 3天 |
-| 4 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 113,683 | +1,012 | 🔥 2天 |
-| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 73,690 | +741 | 🔥 3天 |
-| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 58,781 | +279 | NEW |
-| 7 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 8,183 | +1,631 | 🔥 5天 |
-| 8 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 30,688 | +66 | NEW |
-| 9 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 59,061 | +329 | NEW |
-| 10 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 7,314 | +123 | NEW |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 17,717 | +3,703 | 🔥 6天 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 47,974 | +1,461 | 🔥 2天 |
+| 3 | [apple/container](https://github.com/apple/container) | Swift | 41,450 | +1,746 | NEW |
+| 4 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 1,847 | +152 | NEW |
+| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 18,913 | +693 | NEW |
+| 6 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 7,579 | +274 | 🔥 2天 |
+| 7 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | 177,115 | +44 | NEW |
+| 8 | [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 1,355 | +79 | NEW |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 6,487 | +265 | NEW |
+| 10 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 16,704 | +504 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-23.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-24.pdf)
 
 ## 历史报告
 
