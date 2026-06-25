@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-24）
+## 今日榜单（2026-06-25）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 17,717 | +3,703 | 🔥 6天 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 47,974 | +1,461 | 🔥 2天 |
-| 3 | [apple/container](https://github.com/apple/container) | Swift | 41,450 | +1,746 | NEW |
-| 4 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 1,847 | +152 | NEW |
-| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 18,913 | +693 | NEW |
-| 6 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 7,579 | +274 | 🔥 2天 |
-| 7 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | 177,115 | +44 | NEW |
-| 8 | [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 1,355 | +79 | NEW |
-| 9 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 6,487 | +265 | NEW |
-| 10 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 16,704 | +504 | NEW |
+| 1 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 18,057 | +619 | 🔥 2天 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 21,265 | +3,719 | 🔥 7天 |
+| 3 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 1,525 | +201 | NEW |
+| 4 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 6,168 | +112 | NEW |
+| 5 | [apple/container](https://github.com/apple/container) | Swift | 42,819 | +1,838 | 🔥 2天 |
+| 6 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 19,921 | +692 | 🔥 2天 |
+| 7 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 115,334 | +922 | NEW |
+| 8 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 1,011 | +15 | NEW |
+| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 20,832 | +1,031 | NEW |
+| 10 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 19,597 | +280 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-24.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-25.pdf)
 
 ## 历史报告
 
