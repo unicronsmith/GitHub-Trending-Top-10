@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-06-27）
+## 今日榜单（2026-06-28）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 13,135 | +432 | 🔥 2天 |
-| 2 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 3,428 | +1,274 | 🔥 3天 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 61,927 | +80 | 🔥 2天 |
-| 4 | [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | Go | 35,575 | +619 | NEW |
-| 5 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 123,929 | +90 | 🔥 2天 |
-| 6 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 21,918 | +2,407 | 🔥 4天 |
-| 7 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | 135,578 | +67 | NEW |
-| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 32,613 | +589 | NEW |
-| 9 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 21,699 | +1,088 | NEW |
-| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 116,879 | +950 | NEW |
+| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 14,343 | +1,469 | 🔥 3天 |
+| 2 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 124,386 | +459 | 🔥 3天 |
+| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 62,189 | +322 | 🔥 3天 |
+| 4 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 4,909 | +685 | 🔥 4天 |
+| 5 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 7,964 | +372 | NEW |
+| 6 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 18,526 | +2,162 | NEW |
+| 7 | [cupy/cupy](https://github.com/cupy/cupy) | Python | 11,338 | +172 | NEW |
+| 8 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 3,246 | +264 | NEW |
+| 9 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Python | 71,194 | +749 | NEW |
+| 10 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 13,951 | +92 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-06-27.pdf)
+📄 [查看完整 PDF 报告](reports/2026-06-28.pdf)
 
 ## 历史报告
 
