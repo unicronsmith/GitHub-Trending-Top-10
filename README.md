@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-01）
+## 今日榜单（2026-07-02）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 122,010 | +1,791 | 🔥 3天 |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 28,734 | +515 | 🔥 2天 |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 16,186 | +721 | NEW |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 7,971 | +1,343 | NEW |
-| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 2,132 | +364 | NEW |
-| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 9,106 | +387 | 🔥 2天 |
-| 7 | [allenai/olmocr](https://github.com/allenai/olmocr) | Python | 18,074 | +295 | NEW |
-| 8 | [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 13,075 | +561 | NEW |
-| 9 | [togatoga/karukan](https://github.com/togatoga/karukan) | Rust | 526 | +29 | NEW |
-| 10 | [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 6,195 | +32 | 🔥 2天 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 30,797 | +1,211 | 🔥 3天 |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 79,523 | +866 | NEW |
+| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 124,953 | +2,114 | 🔥 4天 |
+| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 8,882 | +2,470 | 🔥 2天 |
+| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 57,315 | +322 | NEW |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 243,958 | +1,047 | NEW |
+| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 44,925 | +92 | NEW |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 13,508 | +693 | NEW |
+| 9 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8,087 | +5 | NEW |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 224,869 | +721 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-01.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-02.pdf)
 
 ## 历史报告
 
