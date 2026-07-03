@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-02）
+## 今日榜单（2026-07-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 30,797 | +1,211 | 🔥 3天 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 79,523 | +866 | NEW |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 124,953 | +2,114 | 🔥 4天 |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 8,882 | +2,470 | 🔥 2天 |
-| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 57,315 | +322 | NEW |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 243,958 | +1,047 | NEW |
-| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 44,925 | +92 | NEW |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 13,508 | +693 | NEW |
-| 9 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8,087 | +5 | NEW |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 224,869 | +721 | NEW |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 33,574 | +2,137 | 🔥 4天 |
+| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 22,917 | +352 | NEW |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 82,368 | +926 | 🔥 2天 |
+| 4 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Java | 77,232 | +77 | NEW |
+| 5 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8,216 | +26 | 🔥 2天 |
+| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 45,320 | +104 | 🔥 2天 |
+| 7 | [ansible/ansible](https://github.com/ansible/ansible) | Python | 69,088 | +50 | NEW |
+| 8 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 4,081 | +1,108 | NEW |
+| 9 | [rommapp/romm](https://github.com/rommapp/romm) | Python | 9,561 | +236 | NEW |
+| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | 25,944 | +68 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-03.pdf)
 
 ## 历史报告
 
