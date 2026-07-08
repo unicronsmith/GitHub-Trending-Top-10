@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-07）
+## 今日榜单（2026-07-08）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 8,398 | +2,402 | NEW |
-| 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 20,087 | +1,781 | 🔥 4天 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 71,573 | +1,311 | 🔥 2天 |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78,081 | +1,122 | 🔥 2天 |
-| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 52,421 | +1,704 | 🔥 4天 |
-| 6 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | 8,165 | +665 | NEW |
-| 7 | [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | HTML | 3,611 | +173 | NEW |
-| 8 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | 16,915 | +377 | NEW |
-| 9 | [dotnet/skills](https://github.com/dotnet/skills) | C# | 4,213 | +200 | NEW |
-| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 9,279 | +802 | NEW |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 13,297 | +2,514 | 🔥 2天 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 72,773 | +1,317 | 🔥 3天 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78,843 | +1,129 | 🔥 3天 |
+| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 7,318 | +610 | NEW |
+| 5 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | 46,380 | +30 | NEW |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 50,481 | +659 | NEW |
+| 7 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Go | 23,358 | +20 | NEW |
+| 8 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 10,934 | +893 | 🔥 2天 |
+| 9 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 53,584 | +1,691 | 🔥 5天 |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 249,371 | +999 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-07.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-08.pdf)
 
 ## 历史报告
 
