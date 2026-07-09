@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-08）
+## 今日榜单（2026-07-09）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 13,297 | +2,514 | 🔥 2天 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 72,773 | +1,317 | 🔥 3天 |
-| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78,843 | +1,129 | 🔥 3天 |
-| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 7,318 | +610 | NEW |
-| 5 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | 46,380 | +30 | NEW |
-| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 50,481 | +659 | NEW |
-| 7 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Go | 23,358 | +20 | NEW |
-| 8 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 10,934 | +893 | 🔥 2天 |
-| 9 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 53,584 | +1,691 | 🔥 5天 |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 249,371 | +999 | NEW |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 17,420 | +3,728 | 🔥 3天 |
+| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | 1,795 | +541 | NEW |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 75,480 | +2,582 | 🔥 4天 |
+| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | 99,136 | +1,569 | NEW |
+| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 12,983 | +1,923 | 🔥 3天 |
+| 6 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 6,480 | +185 | NEW |
+| 7 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | 46,919 | +194 | NEW |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 19,121 | +454 | NEW |
+| 9 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 71,651 | +195 | NEW |
+| 10 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | Unknown | 28,876 | +399 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-08.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-09.pdf)
 
 ## 历史报告
 
