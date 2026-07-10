@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-09）
+## 今日榜单（2026-07-10）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 17,420 | +3,728 | 🔥 3天 |
-| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | 1,795 | +541 | NEW |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 75,480 | +2,582 | 🔥 4天 |
-| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | 99,136 | +1,569 | NEW |
-| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 12,983 | +1,923 | 🔥 3天 |
-| 6 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 6,480 | +185 | NEW |
-| 7 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | 46,919 | +194 | NEW |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 19,121 | +454 | NEW |
-| 9 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 71,651 | +195 | NEW |
-| 10 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | Unknown | 28,876 | +399 | NEW |
+| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 6,793 | +185 | 🔥 2天 |
+| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 93,894 | +82 | NEW |
+| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17,469 | +3 | NEW |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 76,463 | +2,554 | 🔥 5天 |
+| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 6,044 | +65 | NEW |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 163,957 | +1,728 | NEW |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 251,444 | +1,096 | NEW |
+| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | 109,720 | +166 | NEW |
+| 9 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | 20,568 | +69 | NEW |
+| 10 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | C++ | 6,032 | +87 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-09.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-10.pdf)
 
 ## 历史报告
 
