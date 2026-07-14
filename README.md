@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-13）
+## 今日榜单（2026-07-14）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 64,350 | +1,077 | NEW |
-| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 3,611 | +1,290 | 🔥 2天 |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 21,198 | +1,148 | 🔥 2天 |
-| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 41,673 | +57 | NEW |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 119,200 | +1,006 | 🔥 2天 |
-| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 4,730 | +802 | NEW |
-| 7 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | 50,525 | +74 | NEW |
-| 8 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 83,810 | +1,028 | NEW |
-| 9 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 12,243 | +435 | NEW |
-| 10 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 120,261 | +508 | NEW |
+| 1 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 120,221 | +996 | 🔥 3天 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 169,321 | +1,559 | NEW |
+| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4,054 | +1,295 | 🔥 3天 |
+| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 68,511 | +1,229 | 🔥 2天 |
+| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 61,660 | +330 | NEW |
+| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 5,685 | +794 | 🔥 2天 |
+| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 22,404 | +1,153 | 🔥 3天 |
+| 8 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | 51,247 | +118 | 🔥 2天 |
+| 9 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 13,058 | +451 | 🔥 2天 |
+| 10 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 55,892 | +264 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-13.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-14.pdf)
 
 ## 历史报告
 
