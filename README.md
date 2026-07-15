@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-14）
+## 今日榜单（2026-07-15）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 120,221 | +996 | 🔥 3天 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 169,321 | +1,559 | NEW |
-| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4,054 | +1,295 | 🔥 3天 |
-| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 68,511 | +1,229 | 🔥 2天 |
-| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 61,660 | +330 | NEW |
-| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 5,685 | +794 | 🔥 2天 |
-| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 22,404 | +1,153 | 🔥 3天 |
-| 8 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | 51,247 | +118 | 🔥 2天 |
-| 9 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 13,058 | +451 | 🔥 2天 |
-| 10 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 55,892 | +264 | NEW |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 69,866 | +4,276 | 🔥 3天 |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 6,635 | +1,015 | 🔥 3天 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 171,419 | +1,679 | 🔥 2天 |
+| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 42,308 | +537 | NEW |
+| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4,554 | +473 | 🔥 4天 |
+| 6 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 23,299 | +1,256 | 🔥 4天 |
+| 7 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 65,124 | +607 | NEW |
+| 8 | [par274/sharpemu](https://github.com/par274/sharpemu) | C# | 2,388 | +332 | NEW |
+| 9 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | Python | 55,697 | +1,196 | NEW |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 26,004 | +128 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-14.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-15.pdf)
 
 ## 历史报告
 
