@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-15）
+## 今日榜单（2026-07-16）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 69,866 | +4,276 | 🔥 3天 |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 6,635 | +1,015 | 🔥 3天 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 171,419 | +1,679 | 🔥 2天 |
-| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 42,308 | +537 | NEW |
-| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4,554 | +473 | 🔥 4天 |
-| 6 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 23,299 | +1,256 | 🔥 4天 |
-| 7 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 65,124 | +607 | NEW |
-| 8 | [par274/sharpemu](https://github.com/par274/sharpemu) | C# | 2,388 | +332 | NEW |
-| 9 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | Python | 55,697 | +1,196 | NEW |
-| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 26,004 | +128 | NEW |
+| 1 | [apache/ossie](https://github.com/apache/ossie) | Python | 730 | +34 | NEW |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 10,087 | +1,277 | 🔥 4天 |
+| 3 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 73,440 | +1,664 | 🔥 4天 |
+| 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 35,595 | +58 | NEW |
+| 5 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 65,772 | +299 | 🔥 2天 |
+| 6 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 1,362 | +323 | NEW |
+| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 14,694 | +949 | NEW |
+| 8 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 122,387 | +1,236 | NEW |
+| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | 79,919 | +51 | NEW |
+| 10 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | C++ | 1,479 | +38 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-15.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-16.pdf)
 
 ## 历史报告
 
