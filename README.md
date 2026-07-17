@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-16）
+## 今日榜单（2026-07-17）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [apache/ossie](https://github.com/apache/ossie) | Python | 730 | +34 | NEW |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 10,087 | +1,277 | 🔥 4天 |
-| 3 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 73,440 | +1,664 | 🔥 4天 |
-| 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 35,595 | +58 | NEW |
-| 5 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 65,772 | +299 | 🔥 2天 |
-| 6 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 1,362 | +323 | NEW |
-| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 14,694 | +949 | NEW |
-| 8 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 122,387 | +1,236 | NEW |
-| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | 79,919 | +51 | NEW |
-| 10 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | C++ | 1,479 | +38 | NEW |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 526,779 | +435 | NEW |
+| 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 36,027 | +77 | 🔥 2天 |
+| 3 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 6,352 | +511 | NEW |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 11,573 | +3,372 | 🔥 5天 |
+| 5 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 9,740 | +13 | NEW |
+| 6 | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 1,489 | +37 | NEW |
+| 7 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 1,641 | +196 | 🔥 2天 |
+| 8 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 71,508 | +11 | NEW |
+| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 19,584 | +57 | NEW |
+| 10 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 17,701 | +152 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-16.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-17.pdf)
 
 ## 历史报告
 
