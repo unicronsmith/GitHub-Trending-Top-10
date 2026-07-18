@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-17）
+## 今日榜单（2026-07-18）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 526,779 | +435 | NEW |
-| 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 36,027 | +77 | 🔥 2天 |
-| 3 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 6,352 | +511 | NEW |
-| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 11,573 | +3,372 | 🔥 5天 |
-| 5 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 9,740 | +13 | NEW |
-| 6 | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 1,489 | +37 | NEW |
-| 7 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 1,641 | +196 | 🔥 2天 |
-| 8 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 71,508 | +11 | NEW |
-| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 19,584 | +57 | NEW |
-| 10 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 17,701 | +152 | NEW |
+| 1 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 12,398 | +827 | NEW |
+| 2 | [apache/ossie](https://github.com/apache/ossie) | Python | 1,162 | +48 | NEW |
+| 3 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 36,341 | +438 | 🔥 3天 |
+| 4 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 4,658 | +529 | NEW |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 38,848 | +232 | NEW |
+| 6 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 19,928 | +74 | 🔥 2天 |
+| 7 | [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 9,346 | +63 | NEW |
+| 8 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 23,128 | +242 | NEW |
+| 9 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 906 | +192 | NEW |
+| 10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 527,854 | +1,068 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-07-17.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-18.pdf)
 
 ## 历史报告
 
