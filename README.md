@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-19）
+## 今日榜单（2026-07-20）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 20,428 | +355 | 🔥 3天 |
-| 2 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 18,123 | +328 | NEW |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 39,328 | +191 | 🔥 2天 |
-| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 42,961 | +629 | NEW |
-| 5 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 1,506 | +203 | 🔥 2天 |
-| 6 | [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | 1,200 | +55 | NEW |
-| 7 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 9,877 | +111 | NEW |
-| 8 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 36,762 | +338 | 🔥 4天 |
-| 9 | [microsoft/terminal](https://github.com/microsoft/terminal) | C++ | 104,002 | +13 | NEW |
-| 10 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | 36,577 | +62 | NEW |
+| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 22,305 | +663 | 🔥 4天 |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 9,225 | +235 | NEW |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 20,709 | +1,343 | NEW |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 40,170 | +501 | 🔥 3天 |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 134,366 | +949 | NEW |
+| 6 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 18,604 | +360 | 🔥 2天 |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 43,810 | +610 | 🔥 2天 |
+| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 28,577 | +303 | NEW |
+| 9 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 13,918 | +865 | NEW |
+| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | 5,403 | +222 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-19.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-20.pdf)
 
 ## 历史报告
 
