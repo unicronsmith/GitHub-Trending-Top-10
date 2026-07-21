@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-20）
+## 今日榜单（2026-07-21）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 22,305 | +663 | 🔥 4天 |
-| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 9,225 | +235 | NEW |
-| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 20,709 | +1,343 | NEW |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 40,170 | +501 | 🔥 3天 |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 134,366 | +949 | NEW |
-| 6 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 18,604 | +360 | 🔥 2天 |
-| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 43,810 | +610 | 🔥 2天 |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 28,577 | +303 | NEW |
-| 9 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 13,918 | +865 | NEW |
-| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | 5,403 | +222 | NEW |
+| 1 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 63,290 | +1,167 | NEW |
+| 2 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | 13,213 | +4,434 | NEW |
+| 3 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 24,184 | +1,833 | 🔥 5天 |
+| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Unknown | 5,900 | +1,846 | NEW |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | JavaScript | 8,759 | +297 | NEW |
+| 6 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 10,039 | +568 | 🔥 2天 |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | 5,462 | +1,641 | NEW |
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | 37,304 | +317 | NEW |
+| 9 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | 6,234 | +939 | 🔥 2天 |
+| 10 | [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | JavaScript | 4,600 | +28 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-07-20.pdf)
+📄 [查看完整 PDF 报告](reports/2026-07-21.pdf)
 
 ## 历史报告
 
