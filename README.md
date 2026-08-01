@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-07-31）
+## 今日榜单（2026-08-01）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 10,021 | +612 | NEW |
-| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 19,119 | +915 | 🔥 3天 |
-| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 55,857 | +378 | 🔥 2天 |
-| 4 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 11,459 | +621 | 🔥 2天 |
-| 5 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 54,871 | +155 | 🔥 2天 |
-| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 10,065 | +7 | NEW |
-| 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 34,955 | +53 | NEW |
-| 8 | [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 2,019 | +190 | NEW |
-| 9 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 4,629 | +188 | NEW |
-| 10 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | C++ | 4,685 | +152 | NEW |
+| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 11,316 | +335 | 🔥 2天 |
+| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 19,801 | +806 | 🔥 4天 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 56,495 | +658 | 🔥 3天 |
+| 4 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 11,967 | +763 | 🔥 3天 |
+| 5 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 55,699 | +1,592 | 🔥 3天 |
+| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 10,203 | +7 | 🔥 2天 |
+| 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35,275 | +35 | 🔥 2天 |
+| 8 | [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 2,229 | +335 | 🔥 2天 |
+| 9 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 5,379 | +194 | 🔥 2天 |
+| 10 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | C++ | 5,227 | +83 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-07-31.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-01.pdf)
 
 ## 历史报告
 
