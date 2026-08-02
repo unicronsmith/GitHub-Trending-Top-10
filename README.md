@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-01）
+## 今日榜单（2026-08-02）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 11,316 | +335 | 🔥 2天 |
-| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 19,801 | +806 | 🔥 4天 |
-| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 56,495 | +658 | 🔥 3天 |
-| 4 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 11,967 | +763 | 🔥 3天 |
-| 5 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 55,699 | +1,592 | 🔥 3天 |
-| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 10,203 | +7 | 🔥 2天 |
-| 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35,275 | +35 | 🔥 2天 |
-| 8 | [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 2,229 | +335 | 🔥 2天 |
-| 9 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 5,379 | +194 | 🔥 2天 |
-| 10 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | C++ | 5,227 | +83 | 🔥 2天 |
+| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 58,364 | +949 | 🔥 4天 |
+| 2 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 5,874 | +760 | 🔥 3天 |
+| 3 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 25,151 | +242 | NEW |
+| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 21,732 | +435 | NEW |
+| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 534,372 | +710 | NEW |
+| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 12,410 | +1,320 | 🔥 3天 |
+| 7 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 20,061 | +585 | 🔥 5天 |
+| 8 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 114,461 | +108 | NEW |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 64,259 | +645 | NEW |
+| 10 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 10,565 | +227 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-01.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-02.pdf)
 
 ## 历史报告
 
