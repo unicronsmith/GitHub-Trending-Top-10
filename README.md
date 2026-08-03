@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-02）
+## 今日榜单（2026-08-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 58,364 | +949 | 🔥 4天 |
-| 2 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 5,874 | +760 | 🔥 3天 |
-| 3 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 25,151 | +242 | NEW |
-| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 21,732 | +435 | NEW |
-| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 534,372 | +710 | NEW |
-| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 12,410 | +1,320 | 🔥 3天 |
-| 7 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 20,061 | +585 | 🔥 5天 |
-| 8 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 114,461 | +108 | NEW |
-| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 64,259 | +645 | NEW |
-| 10 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 10,565 | +227 | NEW |
+| 1 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 26,303 | +1,081 | 🔥 2天 |
+| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 14,946 | +2,442 | 🔥 4天 |
+| 3 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 6,799 | +1,769 | NEW |
+| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 29,603 | +877 | NEW |
+| 5 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 11,683 | +1,091 | 🔥 2天 |
+| 6 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 60,315 | +1,902 | 🔥 5天 |
+| 7 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 115,251 | +776 | 🔥 2天 |
+| 8 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 360,284 | +138 | NEW |
+| 9 | [antirez/ds4](https://github.com/antirez/ds4) | C | 20,218 | +385 | NEW |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 35,720 | +217 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-03.pdf)
 
 ## 历史报告
 
