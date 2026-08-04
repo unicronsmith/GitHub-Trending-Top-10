@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-03）
+## 今日榜单（2026-08-04）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 26,303 | +1,081 | 🔥 2天 |
-| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 14,946 | +2,442 | 🔥 4天 |
-| 3 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 6,799 | +1,769 | NEW |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 29,603 | +877 | NEW |
-| 5 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 11,683 | +1,091 | 🔥 2天 |
-| 6 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 60,315 | +1,902 | 🔥 5天 |
-| 7 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 115,251 | +776 | 🔥 2天 |
-| 8 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 360,284 | +138 | NEW |
-| 9 | [antirez/ds4](https://github.com/antirez/ds4) | C | 20,218 | +385 | NEW |
-| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 35,720 | +217 | NEW |
+| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 12,748 | +1,090 | 🔥 3天 |
+| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 17,081 | +2,446 | 🔥 5天 |
+| 3 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 9,237 | +1,699 | 🔥 2天 |
+| 4 | [uber/ADR](https://github.com/uber/ADR) | Python | 511 | +140 | NEW |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 266,056 | +617 | NEW |
+| 6 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 115,992 | +775 | 🔥 3天 |
+| 7 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | TypeScript | 50,663 | +6 | NEW |
+| 8 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 27,941 | +1,085 | 🔥 3天 |
+| 9 | [webpack/webpack](https://github.com/webpack/webpack) | JavaScript | 65,885 | +8 | NEW |
+| 10 | [gabime/spdlog](https://github.com/gabime/spdlog) | C++ | 29,342 | +9 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-03.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-04.pdf)
 
 ## 历史报告
 
