@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-04）
+## 今日榜单（2026-08-05）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 12,748 | +1,090 | 🔥 3天 |
-| 2 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 17,081 | +2,446 | 🔥 5天 |
-| 3 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 9,237 | +1,699 | 🔥 2天 |
-| 4 | [uber/ADR](https://github.com/uber/ADR) | Python | 511 | +140 | NEW |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 266,056 | +617 | NEW |
-| 6 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 115,992 | +775 | 🔥 3天 |
-| 7 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | TypeScript | 50,663 | +6 | NEW |
-| 8 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 27,941 | +1,085 | 🔥 3天 |
-| 9 | [webpack/webpack](https://github.com/webpack/webpack) | JavaScript | 65,885 | +8 | NEW |
-| 10 | [gabime/spdlog](https://github.com/gabime/spdlog) | C++ | 29,342 | +9 | NEW |
+| 1 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 1,731 | +585 | NEW |
+| 2 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 14,630 | +1,111 | 🔥 4天 |
+| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 361,149 | +637 | NEW |
+| 4 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 10,807 | +2,540 | 🔥 3天 |
+| 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 31,202 | +922 | NEW |
+| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 81,753 | +203 | NEW |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 266,921 | +653 | 🔥 2天 |
+| 8 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 48,755 | +132 | NEW |
+| 9 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | 141,385 | +58 | NEW |
+| 10 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | TypeScript | 96,654 | +52 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-04.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-05.pdf)
 
 ## 历史报告
 
