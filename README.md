@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-06）
+## 今日榜单（2026-08-07）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 15,668 | +1,892 | 🔥 5天 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 82,321 | +226 | 🔥 2天 |
-| 3 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 4,330 | +891 | NEW |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 205,975 | +1,695 | NEW |
-| 5 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 22,804 | +123 | NEW |
-| 6 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 2,583 | +326 | 🔥 2天 |
-| 7 | [google/guava](https://github.com/google/guava) | Java | 51,550 | +9 | NEW |
-| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 76,913 | +157 | NEW |
-| 9 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | 185,852 | +28 | NEW |
-| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 28,807 | +232 | NEW |
+| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 17,128 | +1,057 | 🔥 6天 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 83,384 | +593 | 🔥 3天 |
+| 3 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 5,185 | +2,802 | 🔥 2天 |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 208,005 | +1,873 | 🔥 2天 |
+| 5 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 23,330 | +138 | 🔥 2天 |
+| 6 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 3,194 | +847 | 🔥 3天 |
+| 7 | [google/guava](https://github.com/google/guava) | Java | 51,699 | +13 | 🔥 2天 |
+| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 77,576 | +134 | 🔥 2天 |
+| 9 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | 186,175 | +37 | 🔥 2天 |
+| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 29,272 | +237 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-08-06.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-07.pdf)
 
 ## 历史报告
 
