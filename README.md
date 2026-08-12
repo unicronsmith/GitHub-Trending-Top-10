@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-11）
+## 今日榜单（2026-08-12）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 4,528 | +970 | 🔥 2天 |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 142,210 | +1,349 | 🔥 2天 |
-| 3 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 61,618 | +259 | 🔥 2天 |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 86,007 | +659 | 🔥 7天 |
-| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 76,871 | +198 | 🔥 2天 |
-| 6 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 13,568 | +2,642 | 🔥 4天 |
-| 7 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 65,356 | +56 | 🔥 3天 |
-| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 89,554 | +154 | 🔥 2天 |
-| 9 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | 18,196 | +315 | 🔥 2天 |
-| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 165,522 | +835 | 🔥 2天 |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 8,075 | +1,616 | NEW |
+| 2 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 1,085 | +248 | NEW |
+| 3 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 5,337 | +893 | 🔥 3天 |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 43,297 | +875 | NEW |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 144,183 | +958 | 🔥 3天 |
+| 6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 36,790 | +238 | NEW |
+| 7 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 61,805 | +855 | 🔥 3天 |
+| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 45,084 | +364 | NEW |
+| 9 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | 87,354 | +85 | NEW |
+| 10 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 77,422 | +748 | 🔥 3天 |
 
-📄 [查看完整 PDF 报告](reports/2026-08-11.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-12.pdf)
 
 ## 历史报告
 
