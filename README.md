@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-15）
+## 今日榜单（2026-08-16）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 17,855 | +3,646 | 🔥 4天 |
-| 2 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 5,795 | +662 | 🔥 2天 |
-| 3 | [megadose/holehe](https://github.com/megadose/holehe) | Python | 12,962 | +427 | 🔥 2天 |
-| 4 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 3,158 | +436 | 🔥 4天 |
-| 5 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | 21,038 | +293 | 🔥 2天 |
-| 6 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 10,560 | +165 | NEW |
-| 7 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | TypeScript | 7,495 | +769 | NEW |
-| 8 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 128,766 | +1,160 | NEW |
-| 9 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | TypeScript | 6,081 | +579 | NEW |
-| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | 88,509 | +473 | NEW |
+| 1 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | 4,373 | +599 | NEW |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 19,064 | +1,607 | 🔥 5天 |
+| 3 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 3,016 | +149 | NEW |
+| 4 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 6,232 | +547 | 🔥 3天 |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 72,226 | +434 | NEW |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 460,706 | +2,260 | NEW |
+| 7 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | Python | 1,857 | +297 | NEW |
+| 8 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 129,368 | +892 | 🔥 2天 |
+| 9 | [megadose/holehe](https://github.com/megadose/holehe) | Python | 13,206 | +382 | 🔥 3天 |
+| 10 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 10,430 | +104 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-15.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-16.pdf)
 
 ## 历史报告
 
