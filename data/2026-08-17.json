@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T06:22:33.538184-04:00",
+  "projects": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 5318,
+      "total_forks": 286,
+      "today_stars": 720,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "language_color": "#89e051",
+      "total_stars": 25781,
+      "total_forks": 2615,
+      "today_stars": 270,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 72981,
+      "total_forks": 6574,
+      "today_stars": 572,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "total_stars": 84285,
+      "total_forks": 8315,
+      "today_stars": 150,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 462644,
+      "total_forks": 51088,
+      "today_stars": 1588,
+      "is_new": false,
+      "streak_days": 2
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "full_name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "total_stars": 40345,
+      "total_forks": 5344,
+      "today_stars": 452,
+      "is_new": true,
+      "streak_days": 1
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "total_stars": 6947,
+      "total_forks": 448,
+      "today_stars": 443,
+      "is_new": false,
+      "streak_days": 4
+    }
+  ],
+  "analyses": [
+    "**项目简介**：Cordis 是一个面向时空组合性的元框架，旨在为开发者提供一种全新的编程范式，以更自然、更灵活的方式构建和组合具有空间与时间维度的应用。它解决的是传统框架在表达复杂时空关系时抽象能力不足、组合性差的问题。\n\n**核心功能**：首先，它提供了一套时空原语，让开发者可以声明式地定义实体在时间轴和空间坐标上的行为与关系。其次，它具备强大的组合机制，能够将独立的时空模块像乐高积木一样拼接成复杂系统。此外，它还内置了调度引擎，用于处理时间驱动的逻辑和空间事件，并支持类型安全的 TypeScript 接口。\n\n**适用场景**：主要面向需要处理复杂时空数据的开发者，例如构建地理信息系统、物联网监控平台、实时多人协作工具或游戏服务器。任何需要将时间序列数据与空间位置深度绑定的应用，都能从中受益。\n\n**技术亮点**：其核心亮点在于“元框架”的定位——它不是直接解决业务问题，而是定义了一套描述时空问题的语法和语义，让上层框架可以基于此构建。这种设计使得逻辑的复用性和可移植性极高，同时通过编译器或解释器对时空约束进行静态分析，能在开发阶段就捕获逻辑矛盾。\n\n**上手建议**：项目仍处于活跃开发期，API 可能变动，建议从官方文档中的“Primer”入门以理解核心概念。若想贡献代码，可先阅读其论文《A Programming Paradigm for Spatiotemporal Composability》以把握设计哲学，再通过 GitHub Issues 寻找适合新手的任务。",
+    "**项目简介**：Omarchy 是由 DHH（Ruby on Rails 创始人）发起的一款“美观、现代且固执己见”的 Linux 发行版。它并非从零构建内核，而是基于现有发行版进行深度定制，核心目标是将作者本人对高效、美观开发环境的全部理解，打包成一个开箱即用的完整系统。\n\n**核心功能**：首先，它提供了一套高度集成的桌面体验，包括统一剪贴板、全局热键、屏幕录制和 OCR 文本提取等。其次，内置了完整的开发工具链，从终端、Neovim 到 AI 辅助和各类 TUI/GUI 工具一应俱全。最后，其“固执己见”体现在将所有配置固化为默认值，用户无需折腾即可获得一致且高效的工作流。\n\n**适用场景**：最适合两类人群：一是希望从 macOS 或 Windows 无缝迁移到 Linux 的开发者，Omarchy 提供了熟悉的交互逻辑和开箱即用的开发环境；二是追求极致效率、不愿花时间配置系统的“懒人”开发者，他们可以直接享受一套经过深思熟虑的默认配置。\n\n**技术亮点**：项目的灵魂在于其完整的“手册”体系，所有功能和配置都有详尽的文档支撑，且文档是权威来源。技术上，它通过 Shell 脚本实现高度自动化配置，并将系统的可定制性（如主题、热键、监控）通过 CLI 和配置文件暴露，在“开箱即用”与“深度定制”之间取得了良好平衡。\n\n**上手建议**：如果你是使用者，建议先阅读 `manual/` 目录下的“欢迎”和“入门”文档，了解其设计哲学和基本操作。如果你想贡献，可以从阅读手册开始，关注其配置脚本结构，或为文档和功能改进提交 PR。注意，这是一个个人风格极强的项目，贡献前最好先了解 DHH 的偏好。",
+    "**项目简介**：Unsloth 是一个本地运行的 AI 桌面应用，旨在让用户无需云端服务即可在个人电脑上运行和训练大型语言模型与扩散模型。它解决的核心问题是降低 AI 模型本地部署与微调的技术门槛，让普通用户也能轻松驾驭前沿模型。\n\n**核心功能**：其一，支持多种主流模型的本地运行与微调，如 Qwen3.8、DeepSeek-V4、FLUX 等；其二，提供 2 倍速训练速度和 70% 显存节省的优化能力，且不损失精度；其三，集成了 Agent 工具调用、RAG 检索增强生成、私有网络搜索等高级功能；其四，支持将模型导出为 GGUF、FP8 等多种格式并部署到其他平台。\n\n**适用场景**：适合三类人群——AI 开发者需要快速微调定制模型；数据敏感的企业用户希望本地化部署 AI 而不依赖云端；以及硬件爱好者想要在自己的 GPU 上体验最新模型。典型场景包括个人电脑上的模型微调、离线推理、以及通过 OpenAI 兼容 API 搭建本地服务。\n\n**技术亮点**：其核心优化在于对底层计算内核的精细调优，实现了显著的显存节省和速度提升。此外，它提供了一个完整的桌面级产品体验，支持跨平台（Windows/macOS/Linux）和多种硬件（CPU、Apple、NVIDIA、AMD、Intel），并能通过 Cloudflare 实现安全的远程访问，这在同类开源项目中较为少见。\n\n**上手建议**：新手可直接从官网或 GitHub Releases 下载对应系统的桌面应用，零配置即可开始使用。想深入使用的用户可参考官方文档中的 Notebook 教程，从简单的模型微调入手。开发者若想贡献代码，建议先阅读其 GitHub 仓库中的技术博客，了解其训练优化原理，再参与社区讨论。",
+    "**项目简介**：OpenCut 是一个开源、免费的跨平台视频编辑器，定位为 CapCut（剪映海外版）的开源替代品。它旨在为创作者提供一个不受商业限制、可自由定制和扩展的视频创作工具，解决主流视频编辑软件闭源、收费和生态封闭的问题。\n\n**核心功能**：目前项目正处于完全重写阶段，未来将提供编辑器 API、支持第三方插件的一流插件架构、以及面向 AI 代理的 MCP 服务器。此外，它还将支持无头模式（用于自动化与批量渲染）和编辑器内嵌脚本面板，并采用单一代码库覆盖桌面、移动端和浏览器。\n\n**适用场景**：适合需要高度定制工作流的视频创作者、希望将视频编辑能力集成到自己产品中的开发者，以及关注自动化批量渲染的团队。对于 AI 应用开发者，MCP 服务器意味着可以让智能体直接操控视频编辑，前景广阔。\n\n**技术亮点**：最值得关注的是其“插件优先”的架构设计，以及用 Rust 核心实现跨平台（桌面/移动/网页）的方案。这种架构不仅让第三方扩展成为一等公民，还通过单一核心代码库大幅降低了多端维护成本，同时 MCP 服务器的引入使其成为 AI 时代原生友好的编辑器。\n\n**上手建议**：当前重写版暂不接受外部贡献，建议先使用旧版 opencut-classic 体验现有功能。如果你想跟进新版进展，可以加入 Discord 社区或关注 GitHub Issues；待架构稳定后，官方会开放贡献渠道，届时可从安装 proto 工具链并运行 `moon run web:dev` 开始本地开发。",
+    "**项目简介**：这是 GitHub 上最受欢迎的仓库之一，本质是一个“免费 API 目录大全”，由社区持续维护，收录了涵盖天气、金融、游戏、新闻等几乎所有领域的公开 API 列表。它解决了开发者“找 API 靠搜索引擎、质量参差不齐”的痛点，用一份清单把分散的免费接口集中呈现。\n\n**核心功能**：一是按类别（如动物、金融、地理等）系统化分类整理 API，并标注是否需要认证；二是每个 API 都附有简明描述和官方链接，便于快速评估；三是社区驱动的审核机制，确保收录的 API 真实可用；四是近期加入了 APILayer 的商业 API 推广板块，提供可直接调用的生产级接口。\n\n**适用场景**：前端开发者在做 demo 或 hackathon 时需要快速找数据源；学生在学习 API 调用时寻找免费练习接口；独立开发者验证产品想法时，用免费 API 快速搭建 MVP；技术爱好者探索新领域时，发现有趣的公开数据服务。\n\n**技术亮点**：项目虽以 Python 标记，但核心价值不在代码，而在其“结构化数据治理”思路——通过清晰的分类、一致的格式和活跃的社区贡献，将零散的信息源转化为高信噪比的资源索引。其 46 万+ 星标本身就是对“简单但极有用”这一开源理念的最佳验证。\n\n**上手建议**：直接浏览 README 中的分类目录，用 Ctrl+F 搜索你需要的 API 关键词。想贡献的话，先阅读 CONTRIBUTING 指南，确认你要添加的 API 未被收录且符合“免费、公开、无需付费”的标准，然后按格式提交 PR。日常使用无需 clone 仓库，网页版即可满足大部分需求。",
+    "**项目简介**：ToolJet 是一个开源的低代码/无代码平台，用于快速构建内部工具、仪表盘、业务应用和工作流。它解决了企业开发内部系统时重复造轮子、开发周期长的问题，让团队无需从零搭建即可快速交付业务应用。\n\n**核心功能**：一是可视化应用构建器，提供 60+ 拖拽式组件；二是内置数据库和 80+ 数据源连接器，支持数据库、API、SaaS 工具等；三是支持多页面应用和多人协作编辑；四是可嵌入 JavaScript 和 Python 代码实现灵活逻辑；五是支持 Docker、Kubernetes 等多种部署方式，方便自托管。\n\n**适用场景**：适合需要快速搭建内部管理后台、运营仪表盘、审批流程、数据查看工具的企业团队。运维、数据分析师、产品经理等非专业开发人员也能通过它独立构建业务工具，减少对研发资源的依赖。\n\n**技术亮点**：架构上采用前后端分离设计，前端基于 React，后端支持多语言扩展；数据流采用代理模式，保证敏感数据不直接暴露给浏览器；安全方面使用 AES-256-GCM 加密，并支持 SSO 和细粒度权限控制。其插件化架构允许通过 CLI 自定义连接器，扩展性较强。\n\n**上手建议**：最快的方式是注册 ToolJet Cloud 托管服务，零配置直接体验；想自托管的话，用 Docker 一行命令即可在本地跑起来。对于开发者，可以阅读官方文档中的部署指南和插件开发教程，从 GitHub 仓库的 `issues` 和 `contributing` 指南入手参与贡献。",
+    "**项目简介**  \nNeedle 是一个面向微型设备（手机、可穿戴设备、智能家居、机器人）的开源基础模型，仅有 14MB 的二进制体积，却支持工具调用、设备操作和结构化数据提取。它解决了在资源极度受限的边缘设备上运行大模型的问题，让设备端 AI 具备真正的“动手能力”。\n\n**核心功能**  \n- **工具调用**：通过装饰器声明工具，模型自动选择并填充参数，执行后返回结构化结果。  \n- **结构化提取**：直接传入 Pydantic 模型，从文本中抽取实体并返回类型化对象。  \n- **置信度门控**：每个响应附带校准后的置信度分数，可设定阈值决定是执行还是升级处理。  \n- **工具检索**：支持声明大型工具目录，内置检索头每轮只渲染最相关的 5 个工具。  \n- **内存有界**：256 token 滑动窗口 + KV 固定，长对话内存稳定在 28MB 左右。\n\n**适用场景**  \n适合需要在本地、离线、低功耗设备上做智能交互的开发者，比如智能家居语音助手、可穿戴设备的健康数据分析、机器人现场决策，以及需要严格隐私保护（数据不出设备）的企业应用。对模型体积和内存占用有硬性要求的嵌入式场景尤其适用。\n\n**技术亮点**  \n模型基于“Simple Attention Network”架构，用 Hadamard MLP 替代传统 FFN，配合 GQA 注意力、engram 键值记忆和多通道超连接，以 2-bit 量化（Cactus Quants）将 45M 参数压缩到 14MB。推理引擎内置权重，无网络依赖，且用字节级语法约束解码过程，保证输出严格符合声明的 JSON schema。\n\n**上手建议**  \n从 `pip install cactus-needle` 开始，用装饰器定义几个工具，跑通 `agent.run()` 即可体验核心流程。想深入的话，阅读 `doc/apis.md` 了解完整 API，或运行 `needle playground` 在浏览器中交互试玩。贡献者可从 GitHub 仓库的 issue 和论文（arXiv:2607.18363）入手，理解架构设计后再参与 LoRA 微调和导出流程的改进。"
+  ]
+}
