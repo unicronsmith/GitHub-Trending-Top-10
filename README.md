@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-18）
+## 今日榜单（2026-08-19）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 107,300 | +1,189 | NEW |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 54,743 | +598 | NEW |
-| 3 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 26,175 | +120 | NEW |
-| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 2,406 | +207 | NEW |
-| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 28,740 | +198 | NEW |
-| 6 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 32,579 | +198 | NEW |
-| 7 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 65,214 | +218 | NEW |
-| 8 | [jundot/omlx](https://github.com/jundot/omlx) | Python | 19,161 | +78 | NEW |
-| 9 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 111,462 | +175 | NEW |
-| 10 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | 5,939 | +957 | 🔥 3天 |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 109,550 | +2,304 | 🔥 2天 |
+| 2 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 2,397 | +306 | NEW |
+| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 3,009 | +648 | 🔥 2天 |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 29,785 | +213 | NEW |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 29,505 | +730 | 🔥 2天 |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 465,279 | +1,005 | NEW |
+| 7 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 26,624 | +356 | NEW |
+| 8 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | TypeScript | 53,942 | +609 | NEW |
+| 9 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 24,479 | +192 | NEW |
+| 10 | [jundot/omlx](https://github.com/jundot/omlx) | Python | 19,624 | +370 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-08-18.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-19.pdf)
 
 ## 历史报告
 
