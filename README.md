@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-21）
+## 今日榜单（2026-08-22）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [modular/modular](https://github.com/modular/modular) | Mojo | 28,323 | +268 | NEW |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 227,916 | +2,192 | 🔥 2天 |
-| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 12,379 | +1,545 | NEW |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 275,299 | +727 | 🔥 2天 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 4,228 | +449 | NEW |
-| 6 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 67,084 | +816 | 🔥 2天 |
-| 7 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 3,813 | +332 | 🔥 4天 |
-| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 113,440 | +2,761 | 🔥 4天 |
-| 9 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | 1,499 | +22 | NEW |
-| 10 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 3,262 | +507 | 🔥 3天 |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 230,528 | +3,362 | 🔥 3天 |
+| 2 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | Kotlin | 2,386 | +1,053 | NEW |
+| 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 114,301 | +1,201 | 🔥 5天 |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 13,309 | +1,380 | 🔥 2天 |
+| 5 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 38,402 | +335 | NEW |
+| 6 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Go | 110,429 | +65 | NEW |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 275,838 | +790 | 🔥 3天 |
+| 8 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 67,661 | +921 | 🔥 3天 |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 4,503 | +388 | 🔥 2天 |
+| 10 | [modular/modular](https://github.com/modular/modular) | Mojo | 28,759 | +913 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-08-21.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-22.pdf)
 
 ## 历史报告
 
