@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-24）
+## 今日榜单（2026-08-25）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [openai/codex](https://github.com/openai/codex) | Rust | 116,546 | +2,715 | 🔥 2天 |
-| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 14,651 | +401 | NEW |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 234,672 | +2,447 | 🔥 5天 |
-| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 29,587 | +750 | NEW |
-| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 15,409 | +1,009 | 🔥 4天 |
-| 6 | [block/buzz](https://github.com/block/buzz) | Rust | 30,343 | +410 | NEW |
-| 7 | [apache/maka](https://github.com/apache/maka) | TypeScript | 2,522 | +51 | NEW |
-| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 48,359 | +1,081 | NEW |
-| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 36,985 | +39 | NEW |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 242,748 | +427 | 🔥 2天 |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 49,494 | +891 | 🔥 2天 |
+| 2 | [openai/codex](https://github.com/openai/codex) | Rust | 117,733 | +1,994 | 🔥 3天 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 34,596 | +434 | NEW |
+| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 206,865 | +588 | NEW |
+| 5 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | 58,181 | +243 | NEW |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 236,140 | +896 | NEW |
+| 7 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 1,515 | +489 | NEW |
+| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 16,190 | +1,097 | 🔥 5天 |
+| 9 | [apache/maka](https://github.com/apache/maka) | TypeScript | 3,097 | +411 | 🔥 2天 |
+| 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 39,113 | +83 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-24.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-25.pdf)
 
 ## 历史报告
 
