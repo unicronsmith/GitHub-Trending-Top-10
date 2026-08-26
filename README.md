@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-25）
+## 今日榜单（2026-08-26）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 49,494 | +891 | 🔥 2天 |
-| 2 | [openai/codex](https://github.com/openai/codex) | Rust | 117,733 | +1,994 | 🔥 3天 |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 34,596 | +434 | NEW |
-| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 206,865 | +588 | NEW |
-| 5 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | 58,181 | +243 | NEW |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 236,140 | +896 | NEW |
-| 7 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 1,515 | +489 | NEW |
-| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 16,190 | +1,097 | 🔥 5天 |
-| 9 | [apache/maka](https://github.com/apache/maka) | TypeScript | 3,097 | +411 | 🔥 2天 |
-| 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 39,113 | +83 | NEW |
+| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 20,242 | +1,698 | NEW |
+| 2 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 1,998 | +351 | 🔥 2天 |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 35,883 | +1,265 | 🔥 2天 |
+| 4 | [apache/maka](https://github.com/apache/maka) | TypeScript | 3,529 | +543 | 🔥 3天 |
+| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 100,608 | +218 | NEW |
+| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 13,058 | +813 | NEW |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 49,357 | +569 | NEW |
+| 8 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 37,988 | +542 | NEW |
+| 9 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 31,624 | +1,083 | NEW |
+| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 134,465 | +161 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-25.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-26.pdf)
 
 ## 历史报告
 
