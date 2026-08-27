@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-26）
+## 今日榜单（2026-08-27）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 20,242 | +1,698 | NEW |
-| 2 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 1,998 | +351 | 🔥 2天 |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 35,883 | +1,265 | 🔥 2天 |
-| 4 | [apache/maka](https://github.com/apache/maka) | TypeScript | 3,529 | +543 | 🔥 3天 |
-| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 100,608 | +218 | NEW |
-| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 13,058 | +813 | NEW |
-| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 49,357 | +569 | NEW |
-| 8 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 37,988 | +542 | NEW |
-| 9 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 31,624 | +1,083 | NEW |
-| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 134,465 | +161 | NEW |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 7,426 | +1,984 | NEW |
+| 2 | [zedeus/nitter](https://github.com/zedeus/nitter) | Nim | 13,803 | +63 | NEW |
+| 3 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 22,905 | +2,093 | 🔥 2天 |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 22,715 | +4,260 | NEW |
+| 5 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 2,018 | +314 | NEW |
+| 6 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 34,622 | +290 | NEW |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 35,226 | +494 | NEW |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 113,886 | +1,610 | NEW |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 52,224 | +1,284 | NEW |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 50,090 | +547 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-08-26.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-27.pdf)
 
 ## 历史报告
 
