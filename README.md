@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-29）
+## 今日榜单（2026-08-30）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 29,805 | +3,927 | 🔥 3天 |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 37,496 | +1,604 | 🔥 3天 |
-| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 35,248 | +356 | 🔥 3天 |
-| 4 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 12,033 | +1,870 | 🔥 3天 |
-| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 46,311 | +273 | 🔥 2天 |
-| 6 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 2,769 | +294 | 🔥 3天 |
-| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 53,784 | +809 | 🔥 3天 |
-| 8 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | 75,864 | +558 | 🔥 2天 |
-| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 6,093 | +257 | 🔥 2天 |
-| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 24,844 | +767 | 🔥 4天 |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 23,224 | +907 | NEW |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 38,594 | +1,113 | 🔥 4天 |
+| 3 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | 9,419 | +633 | NEW |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 33,337 | +3,730 | 🔥 4天 |
+| 5 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 28,959 | +150 | NEW |
+| 6 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 80,053 | +229 | NEW |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 60,353 | +272 | NEW |
+| 8 | [majd/ipatool](https://github.com/majd/ipatool) | Go | 10,068 | +56 | NEW |
+| 9 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Unknown | 93,150 | +65 | NEW |
+| 10 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | 9,134 | +78 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-29.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-30.pdf)
 
 ## 历史报告
 
