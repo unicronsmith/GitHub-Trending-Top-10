@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-08-30）
+## 今日榜单（2026-08-31）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 23,224 | +907 | NEW |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 38,594 | +1,113 | 🔥 4天 |
-| 3 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | 9,419 | +633 | NEW |
-| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 33,337 | +3,730 | 🔥 4天 |
-| 5 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 28,959 | +150 | NEW |
-| 6 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 80,053 | +229 | NEW |
-| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 60,353 | +272 | NEW |
-| 8 | [majd/ipatool](https://github.com/majd/ipatool) | Go | 10,068 | +56 | NEW |
-| 9 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Unknown | 93,150 | +65 | NEW |
-| 10 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | 9,134 | +78 | NEW |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 26,469 | +2,819 | 🔥 2天 |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 37,836 | +3,993 | 🔥 5天 |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 40,517 | +1,968 | 🔥 5天 |
+| 4 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | 23,242 | +718 | NEW |
+| 5 | [majd/ipatool](https://github.com/majd/ipatool) | Go | 10,456 | +376 | 🔥 2天 |
+| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 55,917 | +472 | NEW |
+| 7 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | 5,326 | +163 | NEW |
+| 8 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | 9,353 | +199 | 🔥 2天 |
+| 9 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 32,947 | +1,439 | NEW |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 245,074 | +548 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-08-30.pdf)
+📄 [查看完整 PDF 报告](reports/2026-08-31.pdf)
 
 ## 历史报告
 
