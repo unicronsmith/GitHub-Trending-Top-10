@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-01）
+## 今日榜单（2026-09-02）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | 31,067 | +37 | NEW |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 44,657 | +161 | NEW |
-| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 29,025 | +3,122 | 🔥 3天 |
-| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 23,663 | +583 | NEW |
-| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 56,813 | +1,005 | 🔥 2天 |
-| 6 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 13,247 | +509 | NEW |
-| 7 | [3b1b/manim](https://github.com/3b1b/manim) | Python | 92,420 | +74 | NEW |
-| 8 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 17,725 | +545 | NEW |
-| 9 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 22,666 | +591 | NEW |
-| 10 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 41,313 | +914 | 🔥 6天 |
+| 1 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 23,876 | +3 | NEW |
+| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 29,102 | +326 | NEW |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 120,798 | +1,364 | NEW |
+| 4 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | 5,945 | +195 | NEW |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 50,520 | +140 | NEW |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 239,845 | +529 | NEW |
+| 7 | [superlinked/sie](https://github.com/superlinked/sie) | Python | 2,981 | +61 | NEW |
+| 8 | [pacifio/atlas](https://github.com/pacifio/atlas) | Rust | 2,675 | +895 | NEW |
+| 9 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Vue | 9,223 | +68 | NEW |
+| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 45,392 | +801 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-09-01.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-02.pdf)
 
 ## 历史报告
 
