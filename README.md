@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-02）
+## 今日榜单（2026-09-03）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 23,876 | +3 | NEW |
-| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 29,102 | +326 | NEW |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 120,798 | +1,364 | NEW |
-| 4 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | 5,945 | +195 | NEW |
-| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 50,520 | +140 | NEW |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 239,845 | +529 | NEW |
-| 7 | [superlinked/sie](https://github.com/superlinked/sie) | Python | 2,981 | +61 | NEW |
-| 8 | [pacifio/atlas](https://github.com/pacifio/atlas) | Rust | 2,675 | +895 | NEW |
-| 9 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Vue | 9,223 | +68 | NEW |
-| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 45,392 | +801 | 🔥 2天 |
+| 1 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 24,786 | +955 | 🔥 2天 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 246,383 | +1,576 | NEW |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 240,574 | +778 | 🔥 2天 |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 122,881 | +2,138 | 🔥 2天 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 173,460 | +277 | NEW |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 246,763 | +749 | NEW |
+| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 102,920 | +545 | NEW |
+| 8 | [blader/humanizer](https://github.com/blader/humanizer) | Python | 41,123 | +1,214 | NEW |
+| 9 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 30,579 | +1,626 | 🔥 2天 |
+| 10 | [averygan/reclip](https://github.com/averygan/reclip) | HTML | 8,199 | +673 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-02.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-03.pdf)
 
 ## 历史报告
 
