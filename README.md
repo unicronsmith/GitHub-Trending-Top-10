@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-06）
+## 今日榜单（2026-09-07）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 253,745 | +2,206 | 🔥 4天 |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 250,543 | +1,486 | 🔥 4天 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 128,726 | +1,539 | 🔥 5天 |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 242,280 | +520 | 🔥 5天 |
-| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 25,612 | +78 | 🔥 5天 |
-| 6 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 174,771 | +412 | 🔥 4天 |
-| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 31,997 | +621 | 🔥 2天 |
-| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 204,969 | +552 | 🔥 2天 |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 70,829 | +276 | 🔥 2天 |
-| 10 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | 2,946 | +451 | 🔥 2天 |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 45,116 | +734 | NEW |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 179,613 | +771 | NEW |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 20,627 | +147 | NEW |
+| 4 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 9,426 | +117 | NEW |
+| 5 | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | 9,628 | +171 | NEW |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 252,453 | +1,905 | 🔥 5天 |
+| 7 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 47,920 | +602 | NEW |
+| 8 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | 5,072 | +541 | NEW |
+| 9 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | 3,652 | +497 | NEW |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 81,724 | +188 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-06.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-07.pdf)
 
 ## 历史报告
 
