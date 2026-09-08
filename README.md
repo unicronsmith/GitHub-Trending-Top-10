@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-07）
+## 今日榜单（2026-09-08）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 45,116 | +734 | NEW |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 179,613 | +771 | NEW |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 20,627 | +147 | NEW |
-| 4 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 9,426 | +117 | NEW |
-| 5 | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | 9,628 | +171 | NEW |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 252,453 | +1,905 | 🔥 5天 |
-| 7 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 47,920 | +602 | NEW |
-| 8 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | 5,072 | +541 | NEW |
-| 9 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | 3,652 | +497 | NEW |
-| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 81,724 | +188 | NEW |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 28,490 | +422 | NEW |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 33,943 | +1,070 | NEW |
+| 3 | [openai/skills](https://github.com/openai/skills) | Python | 26,326 | +490 | NEW |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 253,779 | +1,426 | 🔥 6天 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 47,410 | +2,628 | 🔥 2天 |
+| 6 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 48,535 | +666 | 🔥 2天 |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 283,129 | +446 | NEW |
+| 8 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 211,149 | +325 | NEW |
+| 9 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 181,344 | +2,045 | 🔥 2天 |
+| 10 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 10,237 | +872 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-09-07.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-08.pdf)
 
 ## 历史报告
 
