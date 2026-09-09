@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-08）
+## 今日榜单（2026-09-09）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 28,490 | +422 | NEW |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 33,943 | +1,070 | NEW |
-| 3 | [openai/skills](https://github.com/openai/skills) | Python | 26,326 | +490 | NEW |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 253,779 | +1,426 | 🔥 6天 |
-| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 47,410 | +2,628 | 🔥 2天 |
-| 6 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 48,535 | +666 | 🔥 2天 |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 283,129 | +446 | NEW |
-| 8 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 211,149 | +325 | NEW |
-| 9 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 181,344 | +2,045 | 🔥 2天 |
-| 10 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 10,237 | +872 | 🔥 2天 |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 33,119 | +4,624 | 🔥 2天 |
+| 2 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | TypeScript | 2,730 | +1,083 | NEW |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 283,770 | +690 | 🔥 2天 |
+| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 22,717 | +442 | NEW |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 14,878 | +97 | NEW |
+| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 36,110 | +2,286 | 🔥 2天 |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 103,637 | +506 | NEW |
+| 8 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Unknown | 17,625 | +910 | NEW |
+| 9 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | 6,075 | +505 | NEW |
+| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 29,743 | +612 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-08.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-09.pdf)
 
 ## 历史报告
 
