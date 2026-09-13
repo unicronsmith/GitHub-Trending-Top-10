@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-12）
+## 今日榜单（2026-09-13）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 28,311 | +2,265 | 🔥 3天 |
-| 2 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 1,586 | +505 | 🔥 2天 |
-| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 65,040 | +216 | NEW |
-| 4 | [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 3,000 | +209 | 🔥 2天 |
-| 5 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 33,167 | +52 | NEW |
-| 6 | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | Python | 5,019 | +264 | NEW |
-| 7 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | 15,837 | +228 | 🔥 2天 |
-| 8 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 2,322 | +377 | 🔥 3天 |
-| 9 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | Java | 33,086 | +247 | NEW |
-| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 137,378 | +237 | NEW |
+| 1 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 29,043 | +652 | NEW |
+| 2 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | 4,642 | +58 | NEW |
+| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 31,104 | +2,898 | 🔥 4天 |
+| 4 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 5,423 | +215 | NEW |
+| 5 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 2,032 | +444 | 🔥 3天 |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 58,134 | +383 | NEW |
+| 7 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 65,760 | +727 | 🔥 2天 |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 23,718 | +613 | NEW |
+| 9 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | Python | 7,558 | +500 | NEW |
+| 10 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | Java | 33,325 | +238 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-09-12.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-13.pdf)
 
 ## 历史报告
 
