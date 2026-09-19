@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-18）
+## 今日榜单（2026-09-19）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 12,220 | +3,019 | 🔥 3天 |
-| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 146,095 | +442 | 🔥 2天 |
-| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 36,246 | +2,724 | 🔥 5天 |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 261,622 | +965 | NEW |
-| 5 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | 4,941 | +1,319 | 🔥 2天 |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 96,177 | +677 | 🔥 2天 |
-| 7 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | 3,809 | +571 | NEW |
-| 8 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | TypeScript | 69,123 | +298 | NEW |
-| 9 | [ankitects/anki](https://github.com/ankitects/anki) | Rust | 31,091 | +430 | NEW |
-| 10 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 24,734 | +300 | 🔥 3天 |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 15,234 | +3,162 | 🔥 4天 |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | 23,934 | +383 | NEW |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 96,724 | +547 | 🔥 3天 |
+| 4 | [coder/coder](https://github.com/coder/coder) | Go | 15,461 | +406 | NEW |
+| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 146,545 | +482 | 🔥 3天 |
+| 6 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 15,751 | +477 | NEW |
+| 7 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 4,725 | +325 | NEW |
+| 8 | [docling-project/docling](https://github.com/docling-project/docling) | Python | 66,776 | +94 | NEW |
+| 9 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | 11,883 | +5 | NEW |
+| 10 | [asciimoo/hister](https://github.com/asciimoo/hister) | Go | 5,110 | +430 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-18.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-19.pdf)
 
 ## 历史报告
 
