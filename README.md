@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-19）
+## 今日榜单（2026-09-20）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 15,234 | +3,162 | 🔥 4天 |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | 23,934 | +383 | NEW |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 96,724 | +547 | 🔥 3天 |
-| 4 | [coder/coder](https://github.com/coder/coder) | Go | 15,461 | +406 | NEW |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 146,545 | +482 | 🔥 3天 |
-| 6 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 15,751 | +477 | NEW |
-| 7 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 4,725 | +325 | NEW |
-| 8 | [docling-project/docling](https://github.com/docling-project/docling) | Python | 66,776 | +94 | NEW |
-| 9 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | 11,883 | +5 | NEW |
-| 10 | [asciimoo/hister](https://github.com/asciimoo/hister) | Go | 5,110 | +430 | NEW |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 263,339 | +1,012 | NEW |
+| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 5,010 | +89 | NEW |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 17,510 | +2,375 | 🔥 5天 |
+| 4 | [trycua/cua](https://github.com/trycua/cua) | HTML | 24,915 | +1,012 | 🔥 2天 |
+| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 35,220 | +236 | NEW |
+| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 45,388 | +32 | NEW |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 146,929 | +415 | 🔥 4天 |
+| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | 4,438 | +174 | NEW |
+| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 5,174 | +461 | 🔥 2天 |
+| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 16,498 | +752 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-09-19.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-20.pdf)
 
 ## 历史报告
 
