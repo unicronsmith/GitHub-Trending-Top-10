@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-20）
+## 今日榜单（2026-09-21）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 263,339 | +1,012 | NEW |
-| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 5,010 | +89 | NEW |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 17,510 | +2,375 | 🔥 5天 |
-| 4 | [trycua/cua](https://github.com/trycua/cua) | HTML | 24,915 | +1,012 | 🔥 2天 |
-| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 35,220 | +236 | NEW |
-| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 45,388 | +32 | NEW |
-| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 146,929 | +415 | 🔥 4天 |
-| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | 4,438 | +174 | NEW |
-| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 5,174 | +461 | 🔥 2天 |
-| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 16,498 | +752 | 🔥 2天 |
+| 1 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 5,698 | +607 | 🔥 2天 |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | 25,562 | +609 | 🔥 3天 |
+| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 17,449 | +843 | 🔥 3天 |
+| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 7,512 | +217 | NEW |
+| 5 | [coder/coder](https://github.com/coder/coder) | Go | 16,318 | +461 | NEW |
+| 6 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 35,686 | +425 | 🔥 2天 |
+| 7 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | 12,234 | +69 | NEW |
+| 8 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | 13,437 | +177 | NEW |
+| 9 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | 8,080 | +266 | NEW |
+| 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | Unknown | 103,848 | +221 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-20.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-21.pdf)
 
 ## 历史报告
 
