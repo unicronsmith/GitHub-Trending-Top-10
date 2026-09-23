@@ -9,20 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-22）
+## 今日榜单（2026-09-23）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 36,118 | +436 | 🔥 3天 |
-| 2 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | 2,771 | +498 | NEW |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 15,030 | +202 | NEW |
-| 4 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 30,962 | +33 | NEW |
-| 5 | [google/ax](https://github.com/google/ax) | Go | 7,007 | +2,324 | NEW |
-| 6 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | 13,832 | +441 | 🔥 2天 |
-| 7 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | 2,032 | +197 | NEW |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 25,593 | +155 | NEW |
+| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 36,751 | +665 | 🔥 4天 |
+| 2 | [google/ax](https://github.com/google/ax) | Go | 8,523 | +1,542 | 🔥 2天 |
+| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 31,355 | +393 | 🔥 2天 |
+| 4 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 6,405 | +609 | NEW |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 290,490 | +528 | NEW |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 16,114 | +1,140 | 🔥 2天 |
+| 7 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 18,612 | +832 | NEW |
+| 8 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | 3,306 | +560 | 🔥 2天 |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | Python | 7,662 | +96 | NEW |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 49,776 | +41 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-22.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-23.pdf)
 
 ## 历史报告
 
