@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-24）
+## 今日榜单（2026-09-25）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 56,063 | +310 | NEW |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 27,103 | +1,607 | NEW |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 17,189 | +1,060 | 🔥 3天 |
-| 4 | [google/ax](https://github.com/google/ax) | Go | 9,835 | +1,376 | 🔥 3天 |
-| 5 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | Python | 3,920 | +22 | NEW |
-| 6 | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | TypeScript | 5,290 | +165 | NEW |
-| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 37,236 | +510 | 🔥 5天 |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 50,184 | +415 | 🔥 2天 |
-| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | 14,626 | +275 | NEW |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 291,033 | +606 | 🔥 2天 |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 83,810 | +1,853 | NEW |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 36,783 | +62 | NEW |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 28,738 | +1,652 | 🔥 2天 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 291,483 | +465 | 🔥 3天 |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 269,492 | +671 | NEW |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 18,186 | +1,048 | 🔥 4天 |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 178,120 | +155 | NEW |
+| 8 | [androoAGI/starnet](https://github.com/androoAGI/starnet) | JavaScript | 330 | +113 | NEW |
+| 9 | [derv82/wifit3](https://github.com/derv82/wifit3) | Python | 743 | +168 | NEW |
+| 10 | [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Unknown | 50,040 | +105 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-24.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-25.pdf)
 
 ## 历史报告
 
