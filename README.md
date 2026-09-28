@@ -9,21 +9,20 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-27）
+## 今日榜单（2026-09-28）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 88,807 | +2,527 | 🔥 3天 |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 35,783 | +4,463 | 🔥 4天 |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 38,990 | +3,060 | NEW |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 58,884 | +848 | 🔥 2天 |
-| 5 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | Shell | 6,431 | +139 | NEW |
-| 6 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | TypeScript | 5,261 | +76 | NEW |
-| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 690 | +114 | NEW |
-| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 19,949 | +920 | 🔥 6天 |
-| 9 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | C | 722 | +171 | NEW |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 43,092 | +3,274 | 🔥 2天 |
+| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 92,260 | +3,185 | 🔥 4天 |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 40,611 | +4,413 | 🔥 5天 |
+| 4 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 25,682 | +145 | NEW |
+| 5 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 2,388 | +316 | NEW |
+| 6 | [byoungd/up](https://github.com/byoungd/up) | JavaScript | 64,564 | +310 | NEW |
+| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 1,549 | +781 | 🔥 2天 |
+| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 21,106 | +1,105 | 🔥 7天 |
 
-📄 [查看完整 PDF 报告](reports/2026-09-27.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-28.pdf)
 
 ## 历史报告
 
