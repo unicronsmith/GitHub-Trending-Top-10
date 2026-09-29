@@ -9,20 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-28）
+## 今日榜单（2026-09-29）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 43,092 | +3,274 | 🔥 2天 |
-| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 92,260 | +3,185 | 🔥 4天 |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 40,611 | +4,413 | 🔥 5天 |
-| 4 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 25,682 | +145 | NEW |
-| 5 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 2,388 | +316 | NEW |
-| 6 | [byoungd/up](https://github.com/byoungd/up) | JavaScript | 64,564 | +310 | NEW |
-| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 1,549 | +781 | 🔥 2天 |
-| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 21,106 | +1,105 | 🔥 7天 |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 47,078 | +4,712 | 🔥 3天 |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 10,235 | +978 | NEW |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 42,378 | +2,541 | 🔥 6天 |
+| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 94,140 | +2,412 | 🔥 5天 |
+| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | 21,778 | +460 | NEW |
+| 6 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2,207 | +733 | 🔥 3天 |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | 13,671 | +436 | NEW |
+| 8 | [averygan/reclip](https://github.com/averygan/reclip) | HTML | 9,911 | +114 | NEW |
+| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 2,941 | +569 | 🔥 2天 |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 61,034 | +855 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-28.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-29.pdf)
 
 ## 历史报告
 
