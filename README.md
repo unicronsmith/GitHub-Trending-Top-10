@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-29）
+## 今日榜单（2026-09-30）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 47,078 | +4,712 | 🔥 3天 |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 10,235 | +978 | NEW |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 42,378 | +2,541 | 🔥 6天 |
-| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 94,140 | +2,412 | 🔥 5天 |
-| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | 21,778 | +460 | NEW |
-| 6 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2,207 | +733 | 🔥 3天 |
-| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | 13,671 | +436 | NEW |
-| 8 | [averygan/reclip](https://github.com/averygan/reclip) | HTML | 9,911 | +114 | NEW |
-| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 2,941 | +569 | 🔥 2天 |
-| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 61,034 | +855 | NEW |
+| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 11,828 | +1,280 | 🔥 2天 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 49,980 | +3,481 | 🔥 4天 |
+| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2,811 | +622 | 🔥 4天 |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,366 | +88 | NEW |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 148,819 | +675 | NEW |
+| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 127,374 | +464 | NEW |
+| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,880 | +136 | NEW |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 76,020 | +118 | NEW |
+| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 272,754 | +736 | NEW |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 54,527 | +352 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-29.pdf)
+📄 [查看完整 PDF 报告](reports/2026-09-30.pdf)
 
 ## 历史报告
 
