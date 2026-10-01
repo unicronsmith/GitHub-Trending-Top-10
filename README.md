@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-09-30）
+## 今日榜单（2026-10-01）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 11,828 | +1,280 | 🔥 2天 |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 49,980 | +3,481 | 🔥 4天 |
-| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2,811 | +622 | 🔥 4天 |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,366 | +88 | NEW |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 148,819 | +675 | NEW |
-| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 127,374 | +464 | NEW |
-| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,880 | +136 | NEW |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 76,020 | +118 | NEW |
-| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 272,754 | +736 | NEW |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 54,527 | +352 | NEW |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 150,084 | +1,179 | 🔥 2天 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 273,618 | +888 | 🔥 2天 |
+| 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 13,826 | +2,503 | 🔥 3天 |
+| 4 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | C++ | 6,833 | +112 | NEW |
+| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3,494 | +640 | 🔥 5天 |
+| 6 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 9,279 | +157 | NEW |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 293,808 | +476 | NEW |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,707 | +357 | 🔥 2天 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 55,170 | +624 | 🔥 2天 |
+| 10 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 111,035 | +294 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-09-30.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-01.pdf)
 
 ## 历史报告
 
