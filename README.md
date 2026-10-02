@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-01）
+## 今日榜单（2026-10-02）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 150,084 | +1,179 | 🔥 2天 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 273,618 | +888 | 🔥 2天 |
-| 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 13,826 | +2,503 | 🔥 3天 |
-| 4 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | C++ | 6,833 | +112 | NEW |
-| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3,494 | +640 | 🔥 5天 |
-| 6 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 9,279 | +157 | NEW |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 293,808 | +476 | NEW |
-| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,707 | +357 | 🔥 2天 |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 55,170 | +624 | 🔥 2天 |
-| 10 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 111,035 | +294 | NEW |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 88,137 | +683 | NEW |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 108,936 | +271 | NEW |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 294,276 | +561 | 🔥 2天 |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 151,329 | +1,429 | 🔥 3天 |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 74,071 | +717 | NEW |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 274,483 | +955 | 🔥 3天 |
+| 7 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 14,303 | +584 | 🔥 4天 |
+| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 52,293 | +139 | NEW |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 55,703 | +584 | 🔥 3天 |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,951 | +276 | 🔥 3天 |
 
-📄 [查看完整 PDF 报告](reports/2026-10-01.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-02.pdf)
 
 ## 历史报告
 
