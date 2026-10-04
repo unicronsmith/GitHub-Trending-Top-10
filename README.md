@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-03）
+## 今日榜单（2026-10-04）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 152,631 | +1,289 | 🔥 4天 |
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 74,812 | +705 | 🔥 2天 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 271,867 | +578 | NEW |
-| 4 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | TypeScript | 16,707 | +302 | NEW |
-| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 109,355 | +505 | 🔥 2天 |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 89,454 | +1,683 | 🔥 2天 |
-| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 24,465 | +251 | NEW |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 95,318 | +115 | NEW |
-| 9 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | TypeScript | 10,436 | +84 | NEW |
-| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 100,715 | +189 | NEW |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 2,597 | +344 | NEW |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 75,943 | +1,170 | 🔥 3天 |
+| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 52,855 | +345 | NEW |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 154,382 | +1,894 | 🔥 5天 |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 16,713 | +75 | NEW |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 90,487 | +979 | 🔥 3天 |
+| 7 | [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 45,298 | +152 | NEW |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 62,931 | +292 | NEW |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 24,982 | +492 | 🔥 2天 |
+| 10 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | 76,349 | +31 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-03.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-04.pdf)
 
 ## 历史报告
 
