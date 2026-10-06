@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-05）
+## 今日榜单（2026-10-06）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 4,418 | +1,430 | 🔥 2天 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 96,534 | +534 | NEW |
-| 3 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | 1,386 | +222 | NEW |
-| 4 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 17,289 | +456 | 🔥 2天 |
-| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 25,527 | +487 | 🔥 3天 |
-| 6 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 4,760 | +994 | NEW |
-| 7 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 91,734 | +1,156 | 🔥 4天 |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 63,847 | +758 | 🔥 2天 |
-| 9 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | 76,995 | +526 | 🔥 2天 |
-| 10 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 3,950 | +1,444 | NEW |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 5,888 | +1,720 | 🔥 3天 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 277,775 | +1,028 | NEW |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 17,806 | +620 | 🔥 3天 |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 5,724 | +943 | 🔥 2天 |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 77,500 | +609 | NEW |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 96,986 | +536 | 🔥 2天 |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 54,229 | +318 | NEW |
+| 8 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 7,741 | +2,963 | NEW |
+| 9 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 8,612 | +363 | NEW |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 157,654 | +621 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-05.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-06.pdf)
 
 ## 历史报告
 
