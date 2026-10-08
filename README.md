@@ -9,22 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-07）
+## 今日榜单（2026-10-08）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 13,185 | +4,666 | 🔥 2天 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 279,202 | +1,406 | 🔥 2天 |
-| 3 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 9,280 | +2,725 | 🔥 3天 |
-| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 54,903 | +620 | 🔥 2天 |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 44,695 | +828 | NEW |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 102,556 | +453 | NEW |
-| 7 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 7,768 | +82 | NEW |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 97,541 | +578 | 🔥 3天 |
-| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | 27,760 | +96 | NEW |
-| 10 | [trycua/cua](https://github.com/trycua/cua) | Rust | 28,644 | +229 | NEW |
+| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 14,204 | +4,640 | 🔥 4天 |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 45,923 | +1,163 | 🔥 2天 |
+| 3 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 21,017 | +7,744 | 🔥 3天 |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 280,724 | +1,770 | 🔥 3天 |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 98,232 | +662 | 🔥 4天 |
+| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 8,034 | +283 | 🔥 2天 |
+| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 27,373 | +309 | NEW |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 6,834 | +2,510 | NEW |
+| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Unknown | 24,385 | +398 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-07.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-08.pdf)
 
 ## 历史报告
 
