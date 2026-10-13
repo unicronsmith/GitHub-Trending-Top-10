@@ -9,21 +9,21 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-12）
+## 今日榜单（2026-10-13）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 147,911 | +45,495 | 🔥 7天 |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 53,291 | +1,903 | 🔥 2天 |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 27,129 | +394 | NEW |
-| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 21,154 | +4,106 | 🔥 5天 |
-| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 154,791 | +142 | NEW |
-| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 52,307 | +2,100 | 🔥 6天 |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 37,361 | +886 | 🔥 2天 |
-| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | 40,839 | +134 | NEW |
-| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 58,825 | +705 | NEW |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 198,135 | +54,706 | 🔥 8天 |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 54,942 | +1,961 | 🔥 3天 |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 62,311 | +2,277 | NEW |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 27,988 | +978 | 🔥 2天 |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 53,765 | +1,813 | 🔥 7天 |
+| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | 34,302 | +187 | NEW |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 38,140 | +1,004 | 🔥 3天 |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 24,828 | +4,078 | 🔥 6天 |
+| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | 8,937 | +1,182 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-12.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-13.pdf)
 
 ## 历史报告
 
