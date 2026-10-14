@@ -9,21 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-13）
+## 今日榜单（2026-10-14）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 198,135 | +54,706 | 🔥 8天 |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 54,942 | +1,961 | 🔥 3天 |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 62,311 | +2,277 | NEW |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 27,988 | +978 | 🔥 2天 |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 53,765 | +1,813 | 🔥 7天 |
-| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | 34,302 | +187 | NEW |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 38,140 | +1,004 | 🔥 3天 |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 24,828 | +4,078 | 🔥 6天 |
-| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | 8,937 | +1,182 | NEW |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 230,957 | +41,187 | 🔥 9天 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 65,217 | +3,547 | 🔥 2天 |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 28,806 | +946 | 🔥 3天 |
+| 4 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 95,387 | +45 | NEW |
+| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 48,998 | +146 | NEW |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 52,252 | +94 | NEW |
+| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | 26,769 | +2,143 | NEW |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 28,907 | +1,819 | NEW |
+| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 119,807 | +205 | NEW |
+| 10 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | 10,218 | +1,510 | 🔥 2天 |
 
-📄 [查看完整 PDF 报告](reports/2026-10-13.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-14.pdf)
 
 ## 历史报告
 
