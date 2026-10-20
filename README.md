@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-19）
+## 今日榜单（2026-10-20）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 56,177 | +3,860 | 🔥 3天 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 217,466 | +1,310 | 🔥 2天 |
-| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 11,066 | +666 | 🔥 3天 |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 139,415 | +1,011 | NEW |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 76,988 | +564 | 🔥 2天 |
-| 6 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 97,888 | +1,591 | 🔥 3天 |
-| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 76,104 | +317 | NEW |
-| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | 5,974 | +301 | NEW |
-| 9 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | 2,800 | +502 | NEW |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 55,048 | +607 | 🔥 4天 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 59,470 | +3,890 | 🔥 4天 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 33,330 | +849 | NEW |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 99,224 | +1,559 | 🔥 4天 |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 168,927 | +1,007 | NEW |
+| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 140,446 | +1,201 | 🔥 2天 |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 77,585 | +683 | 🔥 3天 |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 129,708 | +751 | NEW |
+| 8 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | JavaScript | 10,744 | +1,168 | NEW |
+| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 218,505 | +1,256 | 🔥 3天 |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 162,050 | +590 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-19.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-20.pdf)
 
 ## 历史报告
 
