@@ -9,21 +9,20 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-22）
+## 今日榜单（2026-10-23）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [php/php-src](https://github.com/php/php-src) | C | 40,901 | +110 | NEW |
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 31,364 | +303 | NEW |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 172,822 | +1,949 | 🔥 3天 |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 38,457 | +2,979 | 🔥 3天 |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 132,475 | +1,407 | NEW |
-| 6 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 113,322 | +683 | 🔥 2天 |
-| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 103,511 | +96 | NEW |
-| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 42,760 | +428 | NEW |
-| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | 8,598 | +115 | NEW |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 41,142 | +2,706 | 🔥 4天 |
+| 2 | [php/php-src](https://github.com/php/php-src) | C | 41,480 | +722 | 🔥 2天 |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 31,999 | +643 | 🔥 2天 |
+| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 18,401 | +1,240 | NEW |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 6,671 | +547 | NEW |
+| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | 8,133 | +209 | NEW |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 40,069 | +144 | NEW |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 122,651 | +93 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-22.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-23.pdf)
 
 ## 历史报告
 
