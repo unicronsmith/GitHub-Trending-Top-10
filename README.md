@@ -9,20 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-23）
+## 今日榜单（2026-10-24）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 41,142 | +2,706 | 🔥 4天 |
-| 2 | [php/php-src](https://github.com/php/php-src) | C | 41,480 | +722 | 🔥 2天 |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 31,999 | +643 | 🔥 2天 |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 18,401 | +1,240 | NEW |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 6,671 | +547 | NEW |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | 8,133 | +209 | NEW |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 40,069 | +144 | NEW |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 122,651 | +93 | NEW |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 43,186 | +2,271 | 🔥 5天 |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 19,173 | +893 | 🔥 2天 |
+| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 2,992 | +11 | NEW |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 31,590 | +567 | NEW |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 44,208 | +1,053 | NEW |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 85,930 | +541 | NEW |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 10,676 | +421 | NEW |
+| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | 107,660 | +38 | NEW |
+| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | 22,348 | +220 | NEW |
+| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 3,802 | +471 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-23.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-24.pdf)
 
 ## 历史报告
 
