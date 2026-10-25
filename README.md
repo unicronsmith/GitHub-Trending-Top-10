@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-24）
+## 今日榜单（2026-10-25）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 43,186 | +2,271 | 🔥 5天 |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 19,173 | +893 | 🔥 2天 |
-| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 2,992 | +11 | NEW |
-| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 31,590 | +567 | NEW |
-| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 44,208 | +1,053 | NEW |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 85,930 | +541 | NEW |
-| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 10,676 | +421 | NEW |
-| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | 107,660 | +38 | NEW |
-| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | 22,348 | +220 | NEW |
-| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 3,802 | +471 | NEW |
+| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4,516 | +677 | 🔥 2天 |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 33,024 | +1,359 | 🔥 2天 |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 85,904 | +1,588 | NEW |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 87,126 | +1,113 | 🔥 2天 |
+| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 11,368 | +657 | 🔥 2天 |
+| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 114,043 | +309 | NEW |
+| 7 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 7,421 | +489 | NEW |
+| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 1,178 | +52 | NEW |
+| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | 63,932 | +192 | NEW |
+| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 45,998 | +2,874 | 🔥 6天 |
 
-📄 [查看完整 PDF 报告](reports/2026-10-24.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-25.pdf)
 
 ## 历史报告
 
