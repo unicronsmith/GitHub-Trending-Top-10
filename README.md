@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-25）
+## 今日榜单（2026-10-26）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4,516 | +677 | 🔥 2天 |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 33,024 | +1,359 | 🔥 2天 |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 85,904 | +1,588 | NEW |
-| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 87,126 | +1,113 | 🔥 2天 |
-| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 11,368 | +657 | 🔥 2天 |
-| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 114,043 | +309 | NEW |
-| 7 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 7,421 | +489 | NEW |
-| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 1,178 | +52 | NEW |
-| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | 63,932 | +192 | NEW |
-| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 45,998 | +2,874 | 🔥 6天 |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 35,576 | +2,235 | 🔥 3天 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 115,610 | +1,376 | 🔥 2天 |
+| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 2,512 | +1,156 | 🔥 2天 |
+| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 6,048 | +1,268 | 🔥 3天 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 289,480 | +853 | NEW |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 88,751 | +1,551 | 🔥 3天 |
+| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 21,891 | +203 | NEW |
+| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 12,242 | +844 | 🔥 3天 |
+| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 1,249 | +312 | NEW |
+| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 103,165 | +723 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-25.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-26.pdf)
 
 ## 历史报告
 
