@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-26）
+## 今日榜单（2026-10-27）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 35,576 | +2,235 | 🔥 3天 |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 115,610 | +1,376 | 🔥 2天 |
-| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 2,512 | +1,156 | 🔥 2天 |
-| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 6,048 | +1,268 | 🔥 3天 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 289,480 | +853 | NEW |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 88,751 | +1,551 | 🔥 3天 |
-| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 21,891 | +203 | NEW |
-| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 12,242 | +844 | 🔥 3天 |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 1,249 | +312 | NEW |
-| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 103,165 | +723 | NEW |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 38,317 | +2,859 | 🔥 4天 |
+| 2 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 2,057 | +794 | 🔥 2天 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 306,098 | +608 | NEW |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 90,102 | +1,458 | 🔥 4天 |
+| 5 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 7,256 | +1,446 | 🔥 4天 |
+| 6 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | TypeScript | 39,025 | +953 | NEW |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 290,511 | +1,183 | 🔥 2天 |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 45,298 | +1,587 | NEW |
+| 9 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 3,688 | +1,211 | 🔥 3天 |
+| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | Unknown | 5,086 | +890 | NEW |
 
-📄 [查看完整 PDF 报告](reports/2026-10-26.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-27.pdf)
 
 ## 历史报告
 
