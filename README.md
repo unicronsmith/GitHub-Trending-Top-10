@@ -9,22 +9,22 @@
 3. 获取每个项目的 README，调用 DeepSeek AI 生成中文分析
 4. 生成精美杂志风格 PDF 报告，自动提交到 `reports/` 目录
 
-## 今日榜单（2026-10-29）
+## 今日榜单（2026-10-30）
 
 | 排名 | 项目 | 语言 | Stars | 今日增长 | 状态 |
 | :---: | --- | :---: | ---: | ---: | :---: |
-| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 49,503 | +1,926 | 🔥 3天 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 308,168 | +1,037 | 🔥 3天 |
-| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 94,746 | +2,881 | 🔥 6天 |
-| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 5,811 | +1,116 | 🔥 5天 |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 7,244 | +1,190 | NEW |
-| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 3,706 | +705 | 🔥 4天 |
-| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | Unknown | 11,889 | +1,178 | 🔥 2天 |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 104,422 | +459 | NEW |
-| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | 7,917 | +240 | NEW |
-| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | Unknown | 8,364 | +1,610 | 🔥 3天 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 105,707 | +1,145 | 🔥 2天 |
+| 2 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 8,205 | +899 | 🔥 2天 |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 96,665 | +2,299 | 🔥 7天 |
+| 4 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | 8,577 | +707 | 🔥 2天 |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 11,013 | +1,146 | NEW |
+| 6 | [expo/skills](https://github.com/expo/skills) | Shell | 3,821 | +233 | NEW |
+| 7 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 5,756 | +117 | NEW |
+| 8 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 307,201 | +882 | NEW |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 32,481 | +920 | NEW |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 51,509 | +2,282 | 🔥 4天 |
 
-📄 [查看完整 PDF 报告](reports/2026-10-29.pdf)
+📄 [查看完整 PDF 报告](reports/2026-10-30.pdf)
 
 ## 历史报告
 
